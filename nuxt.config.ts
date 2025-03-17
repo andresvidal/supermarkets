@@ -12,8 +12,8 @@ export default defineNuxtConfig({
     '@nuxt/ui',
     '@nuxtjs/leaflet'
   ],
-  // nitro: {
-  //   preset: "cloudflare-pages"
-  // },
+  nitro: {
+    preset: "cloudflare-pages"
+  },
   ssr: false
 })
