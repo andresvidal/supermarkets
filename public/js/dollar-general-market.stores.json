@@ -1,0 +1,1202 @@
+[
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": " South Pine Street",
+            "city": "Pacolet",
+            "state": "SC",
+            "zip": "29372"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/sc/pacolet/13885",
+        "phone": "",
+        "latitude": 34.896877,
+        "longitude": -81.764191
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "2224 South Nellis Boulevard",
+            "city": "Las Vegas",
+            "state": "NV",
+            "zip": "89104"
+        },
+        "website": "",
+        "phone": "+1 702-522-0259",
+        "latitude": 36.1466238,
+        "longitude": -115.063847
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "917 East Main Street",
+            "city": "Crestline",
+            "state": "OH",
+            "zip": "44827"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/oh/crestline/13304",
+        "phone": "+1-419-405-6791",
+        "latitude": 40.787792,
+        "longitude": -82.7252026
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "120 Church Street",
+            "city": "Montello",
+            "state": "WI",
+            "zip": "53949"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/wi/montello/10915",
+        "phone": "",
+        "latitude": 43.7946992,
+        "longitude": -89.3175553
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "1193 Park Avenue West",
+            "city": "Mansfield",
+            "state": "OH",
+            "zip": "44906"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/oh/mansfield/12024",
+        "phone": "",
+        "latitude": 40.7576845,
+        "longitude": -82.5598848
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "1733 Pearl Road",
+            "city": "Brunswick",
+            "state": "OH",
+            "zip": "44212"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/oh/brunswick/12022",
+        "phone": "",
+        "latitude": 41.2289302,
+        "longitude": -81.8390682
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": " George II Highway",
+            "city": "Boiling Spring Lakes",
+            "state": "NC",
+            "zip": "28461"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/nc/southport/10171",
+        "phone": "",
+        "latitude": 34.0272209,
+        "longitude": -78.0659689
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "460 West Main Street",
+            "city": "Falconer",
+            "state": "NY",
+            "zip": "14733"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ny/falconer/12399",
+        "phone": "",
+        "latitude": 42.114112,
+        "longitude": -79.206682
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "8898 Market Street",
+            "city": "Dover",
+            "state": "AR",
+            "zip": "72837"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ar/dover/4252",
+        "phone": "",
+        "latitude": 35.3908874,
+        "longitude": -93.1108596
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "1416 Huntsville Highway",
+            "city": "Fayetteville",
+            "state": "TN",
+            "zip": "37334"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/tn/fayetteville/9809",
+        "phone": "",
+        "latitude": 35.1295436,
+        "longitude": -86.5643354
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "11400 Preston Highway",
+            "city": "Louisville",
+            "state": "KY",
+            "zip": "40229"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ky/louisville/9855",
+        "phone": "",
+        "latitude": 38.0834886,
+        "longitude": -85.6703796
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "700 West Main Street",
+            "city": "John Day",
+            "state": "OR",
+            "zip": "97845"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/or/john-day/22261",
+        "phone": "",
+        "latitude": 44.419269,
+        "longitude": -118.9646306
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "610 West Cleveland Street",
+            "city": "Heyworth",
+            "state": "IL",
+            "zip": "61745"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/il/heyworth/7462",
+        "phone": "",
+        "latitude": 40.3114742,
+        "longitude": -88.9841224
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "916 Virginia Avenue",
+            "city": "Clarksville",
+            "state": "VA",
+            "zip": "23927"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/va/clarksville/12013",
+        "phone": "+1-434-362-0299",
+        "latitude": 36.6217286,
+        "longitude": -78.5660075
+    },
+    {
+        "name": "Dollar General",
+        "brand": "Dollar General",
+        "type": "node",
+        "address": {
+            "streetAddress": "3443 Byrdstown Highway",
+            "city": "Monroe",
+            "state": "TN",
+            "zip": "38573"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/tn/monroe/24152",
+        "phone": "+1 615 671 6945",
+        "latitude": 36.4512495,
+        "longitude": -85.2112865
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "4586 Autry Mill Road",
+            "city": "Godwin",
+            "state": "NC",
+            "zip": "28344"
+        },
+        "website": "",
+        "phone": "(877) 463-1553",
+        "latitude": 35.1577302,
+        "longitude": -78.6147579
+    },
+    {
+        "name": "Dollar General",
+        "brand": "Dollar General",
+        "type": "node",
+        "address": {
+            "streetAddress": "1313 West Main Street",
+            "city": "Danville",
+            "state": "IN",
+            "zip": "46122"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/in/danville/14499",
+        "phone": "(317) 943-4862",
+        "latitude": 39.7600466,
+        "longitude": -86.5438691
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "9281 Columbia Highway",
+            "city": "Leesville",
+            "state": "SC",
+            "zip": "29070"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/sc/leesville/11224",
+        "phone": "",
+        "latitude": 34.0415302,
+        "longitude": -81.5407279
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "2711 South Salina Street",
+            "city": "Syracuse",
+            "state": "NY",
+            "zip": "13205"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ny/syracuse/30401",
+        "phone": "",
+        "latitude": 43.0211779,
+        "longitude": -76.1425174
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "4329 Bloxham Cutoff Road",
+            "city": "Crawfordville",
+            "state": "FL",
+            "zip": "32327"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/fl/crawfordville/24726",
+        "phone": "+1-850-954-6265",
+        "latitude": 30.2320275,
+        "longitude": -84.2304429
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": " Plank Pike",
+            "city": "St. Marys",
+            "state": "OH",
+            "zip": "45885"
+        },
+        "website": "",
+        "phone": "",
+        "latitude": 40.5461875,
+        "longitude": -84.3676511
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": " East 1st Street",
+            "city": "Idalou",
+            "state": "TX",
+            "zip": "79329"
+        },
+        "website": "",
+        "phone": "",
+        "latitude": 33.6670716,
+        "longitude": -101.6793092
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "1815 Daniel Road",
+            "city": "Axton",
+            "state": "VA",
+            "zip": "24054"
+        },
+        "website": "",
+        "phone": "+1-540-306-6220",
+        "latitude": 36.6606737,
+        "longitude": -79.7178252
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "1210 Community Drive",
+            "city": "Rochester",
+            "state": "IL",
+            "zip": "62563"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/il/rochester/25911",
+        "phone": "+1-309-213-9069",
+        "latitude": 39.7402728,
+        "longitude": -89.5190566
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "node",
+        "address": {
+            "streetAddress": "5679 Cal Kolola Road",
+            "city": "Caledonia",
+            "state": "MS",
+            "zip": "39740"
+        },
+        "website": "",
+        "phone": "",
+        "latitude": 33.6902151,
+        "longitude": -88.3400195
+    },
+    {
+        "name": "Sav-U-More",
+        "brand": "Dollar General",
+        "type": "way",
+        "address": {
+            "streetAddress": "308 South Main Street",
+            "city": "Churubusco",
+            "state": "IN",
+            "zip": "46723"
+        },
+        "website": "",
+        "phone": "",
+        "latitude": 41.2288239,
+        "longitude": -85.3192255
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "2900 Niles Street",
+            "city": "Bakersfield",
+            "state": "CA",
+            "zip": "93306"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ca/bakersfield/13226",
+        "phone": "",
+        "latitude": 35.3772605,
+        "longitude": -118.9537975
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "965 Lander Avenue",
+            "city": "Turlock",
+            "state": "",
+            "zip": "95380"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ca/turlock/14686",
+        "phone": "",
+        "latitude": 37.4838823,
+        "longitude": -120.8500641
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "325 West Spring Valley Road",
+            "city": "Richardson",
+            "state": "TX",
+            "zip": "75081"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/tx/richardson/25807",
+        "phone": "+1-615-855-4000",
+        "latitude": 32.9395182,
+        "longitude": -96.740764
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "401 West Seneca Turnpike",
+            "city": "Syracuse",
+            "state": "NY",
+            "zip": "13207"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ny/syracuse/30590",
+        "phone": "",
+        "latitude": 43.0015262,
+        "longitude": -76.1537679
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "1313 W 3rd St",
+            "city": "Jackson",
+            "state": "GA",
+            "zip": "30233"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ga/jackson/12018",
+        "phone": "",
+        "latitude": 33.2915145,
+        "longitude": -83.984226
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "7970 North Lander Avenue",
+            "city": "Hilmar",
+            "state": "CA",
+            "zip": "95324"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ca/hilmar/13400",
+        "phone": "",
+        "latitude": 37.4036692,
+        "longitude": -120.8482197
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "9032 Highway 14",
+            "city": "Gray Court",
+            "state": "",
+            "zip": "29645"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/sc/gray-court/6672",
+        "phone": "",
+        "latitude": 34.6176601,
+        "longitude": -82.1211633
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "704 Garrett Road",
+            "city": "Upper Darby",
+            "state": "PA",
+            "zip": "19082-3811"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/pa/upper-darby/14849",
+        "phone": "+1 484-469-0917",
+        "latitude": 39.958307,
+        "longitude": -75.2664964
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "15840 Cicero Avenue",
+            "city": "Oak Forest",
+            "state": "IL",
+            "zip": "60452"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/il/oak-forest/30719",
+        "phone": "",
+        "latitude": 41.604344,
+        "longitude": -87.7372017
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "3580 Oakwood Boulevard",
+            "city": "Melvindale",
+            "state": "MI",
+            "zip": "48122"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/mi/melvindale/8603",
+        "phone": "",
+        "latitude": 42.2816563,
+        "longitude": -83.1821288
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "1701 Tiffin Avenue",
+            "city": "Sandusky",
+            "state": "OH",
+            "zip": "44870"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/oh/sandusky/11",
+        "phone": "+1-419-625-4555",
+        "latitude": 41.4396553,
+        "longitude": -82.7354337
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "7436 Highway 22",
+            "city": "Panama City",
+            "state": "",
+            "zip": "32404"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/fl/callaway/12293",
+        "phone": "",
+        "latitude": 30.1522158,
+        "longitude": -85.5640135
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "2375 Pocahontas Trail",
+            "city": "Quinton",
+            "state": "VA",
+            "zip": "23141"
+        },
+        "website": "",
+        "phone": "",
+        "latitude": 37.5085012,
+        "longitude": -77.1907244
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "221 East Main Street",
+            "city": "Wolfe City",
+            "state": "TX",
+            "zip": "75496"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/tx/wolfe-city/12088",
+        "phone": "+1 903 496 0811",
+        "latitude": 33.3710075,
+        "longitude": -96.068131
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "1432 Anderson Highway",
+            "city": "Cumberland",
+            "state": "VA",
+            "zip": "23040"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/va/cumberland/8810",
+        "phone": "",
+        "latitude": 37.4994759,
+        "longitude": -78.2421783
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "1111 Elgin Avenue",
+            "city": "Dos Palos",
+            "state": "CA",
+            "zip": "93620"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ca/dos-palos/13437",
+        "phone": "",
+        "latitude": 36.9899008,
+        "longitude": -120.6344753
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "2850 Battlefield Parkway",
+            "city": "Resaca",
+            "state": "GA",
+            "zip": "30735"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ga/resaca/13439",
+        "phone": "",
+        "latitude": 34.5779949,
+        "longitude": -84.9434348
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "9140 Amelia Street",
+            "city": "",
+            "state": "",
+            "zip": "23002"
+        },
+        "website": "",
+        "phone": "",
+        "latitude": 37.3420798,
+        "longitude": -77.9797731
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "18 Rich Lynn Drive",
+            "city": "Delta",
+            "state": "MD",
+            "zip": "17314"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/pa/delta/15261",
+        "phone": "+1-717-429-8200",
+        "latitude": 39.7238672,
+        "longitude": -76.3426643
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "79 Ridgeway Avenue",
+            "city": "Falmouth",
+            "state": "KY",
+            "zip": "41040"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ky/falmouth/13516",
+        "phone": "+1-859-995-2732",
+        "latitude": 38.6652973,
+        "longitude": -84.3337813
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "3616 East 10th Street",
+            "city": "Indianapolis",
+            "state": "IN",
+            "zip": "46201"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/in/indianapolis/6371",
+        "phone": "",
+        "latitude": 39.7816855,
+        "longitude": -86.103989
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": " West 7th Street",
+            "city": "Hopkinsville",
+            "state": "",
+            "zip": "42240"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ky/hopkinsville/2697",
+        "phone": "",
+        "latitude": 36.874135,
+        "longitude": -87.5017839
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "7071 Mobile Highway",
+            "city": "Pensacola",
+            "state": "FL",
+            "zip": "32526"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/fl/pensacola/19555",
+        "phone": "",
+        "latitude": 30.4919347,
+        "longitude": -87.3237072
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "183 South Main Street",
+            "city": "Naples",
+            "state": "NY",
+            "zip": "14512"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ny/naples/10552",
+        "phone": "",
+        "latitude": 42.610233,
+        "longitude": -77.407543
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "1405 Kishwaukee Street",
+            "city": "Rockford",
+            "state": "IL",
+            "zip": "61104"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/il/rockford/14602",
+        "phone": "+1-630-635-7630",
+        "latitude": 42.2529236,
+        "longitude": -89.0872967
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "632 West Swannanoa Avenue",
+            "city": "Liberty",
+            "state": "NC",
+            "zip": "27298"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/nc/liberty/3942",
+        "phone": "",
+        "latitude": 35.8526332,
+        "longitude": -79.5832065
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "395 North Avenue",
+            "city": "Athens",
+            "state": "",
+            "zip": "30601"
+        },
+        "website": "",
+        "phone": "",
+        "latitude": 33.9755884,
+        "longitude": -83.3651374
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "5405 Williams Drive",
+            "city": "Georgetown",
+            "state": "TX",
+            "zip": "78633"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/tx/georgetown/10512",
+        "phone": "+1 512 630 0010",
+        "latitude": 30.7034766,
+        "longitude": -97.7438398
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "10765 North US Highway 271",
+            "city": "Arthur City",
+            "state": "TX",
+            "zip": "75411"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/tx/arthur-city/8902",
+        "phone": "",
+        "latitude": 33.8423487,
+        "longitude": -95.5132531
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "3301 English Avenue",
+            "city": "Indianapolis",
+            "state": "IN",
+            "zip": "46201"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/in/indianapolis/3731",
+        "phone": "",
+        "latitude": 39.7593992,
+        "longitude": -86.1095623
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "2710 West 16th Street",
+            "city": "Indianapolis",
+            "state": "IN",
+            "zip": "46222"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/in/indianapolis/12188",
+        "phone": "",
+        "latitude": 39.7882337,
+        "longitude": -86.2059486
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "1164 North Main Street",
+            "city": "Cedartown",
+            "state": "GA",
+            "zip": "30125"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ga/cedartown/9830",
+        "phone": "",
+        "latitude": 34.0364811,
+        "longitude": -85.2400828
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "12616 Chillicothe Road",
+            "city": "Chesterland",
+            "state": "OH",
+            "zip": "44026"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/oh/chesterland/16554",
+        "phone": "+1 (440) 644 - 0822",
+        "latitude": 41.526006,
+        "longitude": -81.338713
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "1901 Vaughn Road",
+            "city": "Wood River",
+            "state": "IL",
+            "zip": "62095"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/il/wood-river/9784",
+        "phone": "",
+        "latitude": 38.8682448,
+        "longitude": -90.0654847
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "930 Putnam Avenue",
+            "city": "Zanesville",
+            "state": "OH",
+            "zip": "43701"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/oh/zanesville/6283",
+        "phone": "",
+        "latitude": 39.9241703,
+        "longitude": -82.0062909
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "3424 South Briery Road",
+            "city": "Irving",
+            "state": "TX",
+            "zip": "75060"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/tx/irving/17248",
+        "phone": "",
+        "latitude": 32.8068024,
+        "longitude": -96.9932884
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "294 Lincoln Boulevard",
+            "city": "Middlesex",
+            "state": "NJ",
+            "zip": "08846"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/nj/middlesex/15513",
+        "phone": "",
+        "latitude": 40.5645805,
+        "longitude": -74.5050739
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "53 US 69",
+            "city": "Celeste",
+            "state": "TX",
+            "zip": "75423"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/tx/celeste/15874",
+        "phone": "+1 972 752 0029",
+        "latitude": 33.2898321,
+        "longitude": -96.1903236
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "307 US Highway 82",
+            "city": "New Boston",
+            "state": "TX",
+            "zip": "75570"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/tx/new-boston/1746",
+        "phone": "+1 430 562 3118",
+        "latitude": 33.4610055,
+        "longitude": -94.4246928
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "3500 Mulberry Highway West",
+            "city": "Mulberry",
+            "state": "AR",
+            "zip": "72947"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ar/mulberry/1534",
+        "phone": "",
+        "latitude": 35.5118077,
+        "longitude": -94.11026
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "7 Moosup Pond Road",
+            "city": "Wauregan",
+            "state": "CT",
+            "zip": "06387"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ct/wauregan/21158",
+        "phone": "+18609322550",
+        "latitude": 41.7421438,
+        "longitude": -71.9058669
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "380 NJ-23",
+            "city": "Sussex",
+            "state": "NJ",
+            "zip": "07461"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/nj/wantage/16563",
+        "phone": "(609) 400-1392",
+        "latitude": 41.198165,
+        "longitude": -74.5968155
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "105 East Ray File Boulevard",
+            "city": "Roland",
+            "state": "OK",
+            "zip": "74954"
+        },
+        "website": "",
+        "phone": "",
+        "latitude": 35.4063503,
+        "longitude": -94.5127743
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "501 South York Street",
+            "city": "Muskogee",
+            "state": "OK",
+            "zip": "74403"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ok/muskogee/3325",
+        "phone": "",
+        "latitude": 35.7347879,
+        "longitude": -95.340942
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "2300-2398 Daisy Ridge",
+            "city": "Rosiclare",
+            "state": "IL",
+            "zip": "62982"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/il/rosiclare/9305",
+        "phone": "+1-812-250-4810",
+        "latitude": 37.4315969,
+        "longitude": -88.3464687
+    },
+    {
+        "name": "Dollar General",
+        "brand": "Dollar General",
+        "type": "way",
+        "address": {
+            "streetAddress": "515 US 70",
+            "city": "Lockney",
+            "state": "TX",
+            "zip": "79241"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/tx/lockney/19922",
+        "phone": "",
+        "latitude": 34.1163084,
+        "longitude": -101.4466197
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": " ",
+            "city": "Kalamazoo",
+            "state": "MI",
+            "zip": "49001"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/mi/kalamazoo/10793",
+        "phone": "",
+        "latitude": 42.2777981,
+        "longitude": -85.5809531
+    },
+    {
+        "name": "Dollar General",
+        "brand": "Dollar General",
+        "type": "way",
+        "address": {
+            "streetAddress": "913 S Main St",
+            "city": "Altamont",
+            "state": "IL",
+            "zip": "62411"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/il/altamont/7696",
+        "phone": "+12246553365",
+        "latitude": 39.0478992,
+        "longitude": -88.7473207
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "421 West Milton Street",
+            "city": "Easton",
+            "state": "PA",
+            "zip": "18042"
+        },
+        "website": "",
+        "phone": "",
+        "latitude": 40.6772915,
+        "longitude": -75.216128
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "1476 West Lizard Creek Road",
+            "city": "Lehighton",
+            "state": "PA",
+            "zip": "18235"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/pa/lehighton/20551",
+        "phone": "",
+        "latitude": 40.7738778,
+        "longitude": -75.737331
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "137 West Main Street",
+            "city": "Hebron",
+            "state": "OH",
+            "zip": "43025"
+        },
+        "website": "",
+        "phone": "",
+        "latitude": 39.9608428,
+        "longitude": -82.4933233
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "6823 Tyrone Pike",
+            "city": "Tyrone",
+            "state": "PA",
+            "zip": "16686"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/pa/tyrone/22455",
+        "phone": "+1-814-682-2399",
+        "latitude": 40.7294474,
+        "longitude": -78.1907841
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "320 4th Avenue Northwest",
+            "city": "Grand Meadow",
+            "state": "MN",
+            "zip": "55936"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/mn/grand-meadow/30041",
+        "phone": "+1-507-481-2100",
+        "latitude": 43.7098448,
+        "longitude": -92.5765214
+    },
+    {
+        "name": "Dollar General Market",
+        "brand": "Dollar General Market",
+        "type": "way",
+        "address": {
+            "streetAddress": "550 West Main Street",
+            "city": "Hancock",
+            "state": "NY",
+            "zip": "13783"
+        },
+        "website": "https://www.dollargeneral.com/store-directory/ny/hancock/19338",
+        "phone": "",
+        "latitude": 41.9570049,
+        "longitude": -75.2920392
+    }
+]

@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col h-screen">
+    <div class="flex flex-col h-[calc(100dvh-8.25rem)]">
         <div
             class="bg-white shadow-sm px-4 py-3 flex items-center justify-between"
         >
@@ -29,11 +29,28 @@
                         <h2 class="text-lg font-semibold text-gray-700 mb-3">
                             Available Data Sources
                         </h2>
-                        <div class="space-y-2 max-h-48 overflow-y-auto">
+                        <div class="flex justify-end space-x-2 mb-2">
+                            <UButton
+                                size="sm"
+                                color="secondary"
+                                @click="selectAllSources"
+                                >Select all</UButton
+                            >
+                            <UButton
+                                size="sm"
+                                color="neutral"
+                                variant="ghost"
+                                @click="clearAllSources"
+                                >Clear</UButton
+                            >
+                        </div>
+                        <div
+                            class="border border-slate-300 rounded-md mb-3 p-2 max-h-48 overflow-y-auto transition-all duration-300 hover:max-h-96"
+                        >
                             <div
                                 v-for="source in dataSources"
                                 :key="source.name"
-                                class="flex items-center"
+                                class="flex items-center py-1"
                             >
                                 <input
                                     @change="loadDataSources"
@@ -48,8 +65,14 @@
                                     class="ml-2 text-sm text-gray-700"
                                     >{{ source.name }}</label
                                 >
-                            </div>
+                            </div>                            
                         </div>
+
+                        <!-- <USelect class="w-48"
+                            multiple
+                            :items="dataSources.map((source) => source.name)"
+                            v-model="selectedDataSources"
+                            @change="mapUpdated" /> -->
                     </div>
 
                     <div class="border-t border-gray-200 pt-4">
@@ -61,11 +84,11 @@
                                 <input
                                     type="checkbox"
                                     v-model="drawSameSourceDataBounds"
-                                    @change="loadDataSources"
+                                    @change="mapUpdated"
                                     class="w-4 h-4 text-blue-600 rounded border-gray-300 focus:ring-blue-500"
                                 />
                                 <span class="ml-2 text-sm text-gray-700"
-                                    >Draw Bounds Same Data Source</span
+                                    >Draw Bounds Within Data Source</span
                                 >
                             </label>
 
@@ -73,11 +96,11 @@
                                 <input
                                     type="checkbox"
                                     v-model="onlyCrossSourceBounds"
-                                    @change="loadDataSources"
+                                    @change="mapUpdated"
                                     class="w-4 h-4 text-blue-600 rounded border-gray-300 focus:ring-blue-500"
                                 />
                                 <span class="ml-2 text-sm text-gray-700"
-                                    >Draw Bounds Cross Data Source</span
+                                    >Draw Bounds Across Data Source</span
                                 >
                             </label>
 
@@ -89,9 +112,18 @@
                                     class="w-4 h-4 text-blue-600 rounded border-gray-300 focus:ring-blue-500"
                                 />
                                 <span class="ml-2 text-sm text-gray-700"
-                                    >Only Show Bounds</span
+                                    >Hide pins</span
                                 >
                             </label>
+
+                            <URadioGroup
+                                legend="Bounds Type"
+                                orientation="horizontal"
+                                color="neutral"
+                                v-model="boundsType"
+                                :items="boundsTypeOptions"
+                                @change="mapUpdated"
+                            />
                         </div>
                     </div>
 
@@ -138,18 +170,27 @@
                                     @change="loadDataSources"
                                 />
                             </div>
+
+                            <div>
+                                <h3
+                                    class="block text-sm font-medium text-gray-700"
+                                >
+                                    Map stats
+                                </h3>
+                                <div class="text-xs text-gray-600">
+                                    <p>
+                                        Data Sources:
+                                        {{ selectedDataSources.length }}
+                                    </p>
+                                    <p>
+                                        Visible Points: {{ getTotalPoints() }}
+                                    </p>
+                                    <p>Bounds Drawn: {{ getBoundsCount() }}</p>
+                                    <p>Bounds Type: {{ boundsType }}</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
-
-                    <button
-                        @click="loadDataSources"
-                        class="w-full bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded-md shadow-sm transition"
-                    >
-                        <span class="flex items-center justify-center">
-                            <Icon name="mdi:refresh" class="mr-2" />
-                            Load Selected Data
-                        </span>
-                    </button>
                 </div>
             </div>
 
@@ -164,7 +205,8 @@
                 >
                     <l-tile-layer
                         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                    ></l-tile-layer>
+                        >hello</l-tile-layer
+                    >
                     <l-layer-group
                         v-if="!onlyShowBounds"
                         v-for="source in loadedSources"
@@ -173,20 +215,6 @@
                     ></l-layer-group>
                     <l-layer-group ref="boundsLayer"></l-layer-group>
                 </l-map>
-
-                <!-- Map overlay for stats -->
-                <div
-                    class="absolute top-4 right-4 bg-white rounded-lg shadow-lg p-4 max-w-xs pointer-events-auto z-10"
-                >
-                    <h3 class="text-sm font-medium text-gray-700 mb-2">
-                        Map Stats
-                    </h3>
-                    <div class="text-xs text-gray-600">
-                        <p>Data Sources: {{ selectedDataSources.length }}</p>
-                        <p>Visible Points: {{ getTotalPoints() }}</p>
-                        <p>Bounds Drawn: {{ getBoundsCount() }}</p>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
@@ -208,8 +236,8 @@ const toggleSidebar = () => {
 };
 
 // Data sources
-const selectedDataSources = ref([]);
-const loadedSources = ref([]);
+const selectedDataSources = ref<any[]>([]);
+const loadedSources = ref<any[]>([]);
 const fetchedData = ref({});
 
 // Options
@@ -218,6 +246,8 @@ const boundsWeight = ref(1.0);
 const drawSameSourceDataBounds = ref(false);
 const onlyCrossSourceBounds = ref(false);
 const onlyShowBounds = ref(false);
+const boundsType = ref("Rectangle");
+const boundsTypeOptions = ref(["Rectangle", "Circular"]);
 
 const dataSources = ref([
     {
@@ -230,8 +260,8 @@ const dataSources = ref([
         url: "/js/publix.stores.json",
         markerOptions: {
             color: "green",
-            iconUrl:
-                "https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png",
+            // iconUrl:
+            //     "https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png",
         },
     },
     {
@@ -254,7 +284,38 @@ const dataSources = ref([
         url: "/js/wholefoods.stores.json",
         markerOptions: { color: "green" },
     },
+    {
+        name: "Dollar General Market",
+        url: "/js/dollar-general-market.stores.json",
+        markerOptions: { color: "yellow" },
+    },
+    {
+        name: "Dollar General",
+        url: "/js/dollar-general.stores.json",
+        markerOptions: { color: "yellow" },
+    },
+    {
+        name: "Family Dollar",
+        url: "/js/family-dollar.stores.json",
+        markerOptions: { color: "yellow" },
+    },
+    {
+        name: "Winn-Dixie",
+        url: "/js/winn-dixie.stores.json",
+        markerOptions: { color: "blue" },
+    },
 ]);
+
+// Select all or clear data sources
+const selectAllSources = () => {
+    selectedDataSources.value = dataSources.value.map((source) => source.name);
+    loadDataSources();
+};
+
+const clearAllSources = () => {
+    selectedDataSources.value = [];
+    loadDataSources();
+};
 
 // Initialize with some data sources selected
 onMounted(() => {
@@ -392,12 +453,32 @@ const drawBounds = () => {
                         [point1.lat, point1.lng],
                         [point2.lat, point2.lng]
                     );
-                    L.rectangle(bounds, {
-                        color: boundsColor,
-                        weight: boundsWeight.value,
-                        opacity: 0.7,
-                        fillOpacity: 0.2,
-                    }).addTo(boundsLayer.value.leafletObject);
+                    if (boundsType.value === "Rectangle") {
+                        L.rectangle(bounds, {
+                            color: boundsColor,
+                            weight: boundsWeight.value,
+                            opacity: 0.7,
+                            fillOpacity: 0.2,
+                        }).addTo(boundsLayer.value.leafletObject);
+                    } else {
+                        const center1 = [point1.lat, point1.lng];
+                        L.circle(center1, {
+                            radius: distance,
+                            color: boundsColor,
+                            weight: boundsWeight.value,
+                            opacity: 0.7,
+                            fillOpacity: 0.2,
+                        }).addTo(boundsLayer.value.leafletObject);
+
+                        const center2 = [point2.lat, point2.lng];
+                        L.circle(center2, {
+                            radius: distance,
+                            color: boundsColor,
+                            weight: boundsWeight.value,
+                            opacity: 0.7,
+                            fillOpacity: 0.2,
+                        }).addTo(boundsLayer.value.leafletObject);
+                    }
                 }
             }
         }
@@ -417,3 +498,10 @@ const getBoundsCount = () => {
     return boundsLayer.value?.leafletObject?.getLayers().length || 0;
 };
 </script>
+
+<style scoped>
+.transition-all {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+</style>

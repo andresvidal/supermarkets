@@ -1,0 +1,5162 @@
+[
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "805 East Drive M.L.K. Jr Boulevard",
+            "city": "Tampa",
+            "state": "FL",
+            "zip": "33603"
+        },
+        "website": "https://www.winndixie.com/storedetails/tampa/fl?search=2472",
+        "phone": "+1 813-301-0210",
+        "latitude": 27.9807363,
+        "longitude": -82.4526041
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "9535 East Fowler Avenue",
+            "city": "Thonotosassa",
+            "state": "FL",
+            "zip": "33592"
+        },
+        "website": "https://www.winndixie.com/storedetails/thonotosassa/fl?search=777",
+        "phone": "+1 813-986-5798",
+        "latitude": 28.0533833,
+        "longitude": -82.3347552
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1515 Bienville Boulevard",
+            "city": "Ocean Springs",
+            "state": "MS",
+            "zip": "39564"
+        },
+        "website": "https://www.winndixie.com/storedetails/ocean%20springs/ms?search=1478",
+        "phone": "+1 228-875-8388",
+        "latitude": 30.4172996,
+        "longitude": -88.8176486
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1021 Lockwood Boulevard",
+            "city": "Oviedo",
+            "state": "FL",
+            "zip": "32765"
+        },
+        "website": "https://www.winndixie.com/storedetails/oviedo/fl?search=2271",
+        "phone": "+1 407-977-0066",
+        "latitude": 28.6564516,
+        "longitude": -81.1779377
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "8438 North Armenia Avenue",
+            "city": "Tampa",
+            "state": "FL",
+            "zip": "33604"
+        },
+        "website": "https://www.winndixie.com/storedetails/tampa/fl?search=639",
+        "phone": "+1 813-931-5918",
+        "latitude": 28.0263943,
+        "longitude": -82.4857178
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "251 Key Deer Boulevard",
+            "city": "Big Pine Key",
+            "state": "FL",
+            "zip": "33043"
+        },
+        "website": "https://www.winndixie.com/storedetails/big%20pine%20key/fl?search=358",
+        "phone": "+1 305-872-4124",
+        "latitude": 24.6730802,
+        "longitude": -81.3569924
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2770 Fowler Avenue",
+            "city": "Tampa",
+            "state": "FL",
+            "zip": "33612"
+        },
+        "website": "https://www.winndixie.com/storedetails/tampa/fl?search=2461",
+        "phone": "+1 813-972-4504",
+        "latitude": 28.0564078,
+        "longitude": -82.4286323
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3318 Canoe Creek Road",
+            "city": "Saint Cloud",
+            "state": "FL",
+            "zip": "34772"
+        },
+        "website": "https://www.winndixie.com/storedetails/saint%20cloud/fl?search=2207",
+        "phone": "+1 407-891-0634",
+        "latitude": 28.1993384,
+        "longitude": -81.2943926
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "10505 Northwest 41st Street",
+            "city": "Doral",
+            "state": "FL",
+            "zip": "33178"
+        },
+        "website": "https://www.winndixie.com/storedetails/doral/fl?search=280",
+        "phone": "+1 305-591-0780",
+        "latitude": 25.8127711,
+        "longitude": -80.3670441
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2985 Gause Boulevard",
+            "city": "Slidell",
+            "state": "LA",
+            "zip": "70461"
+        },
+        "website": "https://www.winndixie.com/storedetails/slidell/la?search=1502",
+        "phone": "+1 985-639-0021",
+        "latitude": 30.289601,
+        "longitude": -89.7206088
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "11030 NorthW. 7th Avenue",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33168"
+        },
+        "website": "https://www.winndixie.com/storedetails/miami/fl?search=233",
+        "phone": "+1 305-756-0013",
+        "latitude": 25.8759005,
+        "longitude": -80.2111858
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "8837 North 56th Street",
+            "city": "Temple Terrace",
+            "state": "FL",
+            "zip": "33617"
+        },
+        "website": "https://www.winndixie.com/storedetails/temple%20terrace/fl?search=2441",
+        "phone": "+1 813-988-4155",
+        "latitude": 28.029125,
+        "longitude": -82.3922429
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "961 East Eau Gallie Boulevard",
+            "city": "Melbourne",
+            "state": "FL",
+            "zip": "32937"
+        },
+        "website": "https://www.winndixie.com/storedetails/melbourne/fl?search=2328",
+        "phone": "+1 321-773-0216",
+        "latitude": 28.1378139,
+        "longitude": -80.5845016
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "6902 South Florida Avenue",
+            "city": "Lakeland",
+            "state": "FL",
+            "zip": "33813"
+        },
+        "website": "https://www.winndixie.com/storedetails/lakeland/fl?search=632",
+        "phone": "+1 863-644-2214",
+        "latitude": 27.9397643,
+        "longitude": -81.9723519
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "10 McFarland Boulevard",
+            "city": "Northport",
+            "state": "AL",
+            "zip": "35476"
+        },
+        "website": "https://www.winndixie.com/storedetails/northport/al?search=528",
+        "phone": "+1 205-345-2735",
+        "latitude": 33.237,
+        "longitude": -87.552464
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1167 South Pinellas Avenue",
+            "city": "Tarpon Springs",
+            "state": "FL",
+            "zip": "34689"
+        },
+        "website": "https://www.winndixie.com/storedetails/tarpon%20springs/fl?search=2532",
+        "phone": "+1 727-937-4074",
+        "latitude": 28.1363672,
+        "longitude": -82.7560805
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "10665 Big Bend Road",
+            "city": "Riverview",
+            "state": "FL",
+            "zip": "33579"
+        },
+        "website": "https://www.winndixie.com/storedetails/riverview/fl?search=2509",
+        "phone": "+1 813-234-0865",
+        "latitude": 27.790285,
+        "longitude": -82.332726
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "14600 Palm Beach Boulevard",
+            "city": "Fort Myers",
+            "state": "FL",
+            "zip": "33905"
+        },
+        "website": "https://www.winndixie.com/storedetails/fort%20myers/fl?search=728",
+        "phone": "+1 239-693-0045",
+        "latitude": 26.7115008,
+        "longitude": -81.7191697
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1050 West New York Avenue",
+            "city": "Deland",
+            "state": "FL",
+            "zip": "32720"
+        },
+        "website": "https://www.winndixie.com/storedetails/deland/fl?search=2343",
+        "phone": "+1 386-738-5321",
+        "latitude": 29.0266894,
+        "longitude": -81.3236819
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "13508 North Florida Avenue",
+            "city": "Tampa",
+            "state": "FL",
+            "zip": "33612"
+        },
+        "website": "https://www.winndixie.com/storedetails/tampa/fl?search=2415",
+        "phone": "+1 813-962-0774",
+        "latitude": 28.0704179,
+        "longitude": -82.4607422
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "13019 Sorrento Road",
+            "city": "Pensacola",
+            "state": "FL",
+            "zip": "32507"
+        },
+        "website": "https://www.winndixie.com/storedetails/pensacola/fl?search=493",
+        "phone": "+1 850-492-2076",
+        "latitude": 30.3213613,
+        "longitude": -87.4179549
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "150 Chelsea Corners Way",
+            "city": "Chelsea",
+            "state": "AL",
+            "zip": "35043"
+        },
+        "website": "https://www.winndixie.com/storedetails/chelsea/al?search=509",
+        "phone": "+1 205-678-8808",
+        "latitude": 33.3462774,
+        "longitude": -86.6308773
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1296 County Road No 1",
+            "city": "Dunedin",
+            "state": "FL",
+            "zip": "34698"
+        },
+        "website": "https://www.winndixie.com/storedetails/dunedin/fl?search=640",
+        "phone": "+1 727-733-1760",
+        "latitude": 28.0215569,
+        "longitude": -82.7643175
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2100 West Swann Avenue",
+            "city": "Tampa",
+            "state": "FL",
+            "zip": "33606"
+        },
+        "website": "https://www.winndixie.com/storedetails/tampa/fl?search=2433",
+        "phone": "+1 813-254-6800",
+        "latitude": 27.9360233,
+        "longitude": -82.4814286
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1049 62nd Avenue North",
+            "city": "Saint Petersburg",
+            "state": "FL",
+            "zip": "33702"
+        },
+        "website": "https://www.winndixie.com/storedetails/st%20petersburg/fl?search=698",
+        "phone": "+1 727-525-4632",
+        "latitude": 27.829874,
+        "longitude": -82.648784
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "8867 Southeast Bridge Road",
+            "city": "Hobe Sound",
+            "state": "FL",
+            "zip": "33455"
+        },
+        "website": "https://www.winndixie.com/storedetails/hobe%20sound/fl?search=305",
+        "phone": "+1 772-546-3221",
+        "latitude": 27.0616992,
+        "longitude": -80.1347123
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1401 South Hiawassee Road",
+            "city": "Orlando",
+            "state": "FL",
+            "zip": "32835"
+        },
+        "website": "https://www.winndixie.com/storedetails/orlando/fl?search=2278",
+        "phone": "+1 407-521-9333",
+        "latitude": 28.5250008,
+        "longitude": -81.4700814
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "11100 4th Street North",
+            "city": "Saint Petersburg",
+            "state": "FL",
+            "zip": "33716"
+        },
+        "website": "https://www.winndixie.com/storedetails/st%20petersburg/fl?search=649",
+        "phone": "+1 727-577-7095",
+        "latitude": 27.8732006,
+        "longitude": -82.640403
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "36019 US Highway 27 North",
+            "city": "Haines City",
+            "state": "FL",
+            "zip": "33844"
+        },
+        "website": "https://www.winndixie.com/storedetails/haines%20city/fl?search=705",
+        "phone": "+1 863-421-6535",
+        "latitude": 28.1237278,
+        "longitude": -81.6373532
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "6270 Cortez Boulevard",
+            "city": "Brooksville",
+            "state": "FL",
+            "zip": "34613"
+        },
+        "website": "https://www.winndixie.com/storedetails/brooksville/fl?search=750",
+        "phone": "+1 352-596-6182",
+        "latitude": 28.5210411,
+        "longitude": -82.5679139
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1235 South McKenzie Street",
+            "city": "Foley",
+            "state": "AL",
+            "zip": "36535"
+        },
+        "website": "https://www.winndixie.com/storedetails/foley/al?search=570",
+        "phone": "+1 251-943-4866",
+        "latitude": 30.3932394,
+        "longitude": -87.6818332
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1564 Harrison Street",
+            "city": "Titusville",
+            "state": "FL",
+            "zip": "32780"
+        },
+        "website": "https://www.winndixie.com/storedetails/titusville/fl?search=2326",
+        "phone": "+1 321-383-1198",
+        "latitude": 28.5865616,
+        "longitude": -80.8207889
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "624 Crandon Boulevard",
+            "city": "Key Biscayne",
+            "state": "FL",
+            "zip": "33149"
+        },
+        "website": "https://www.winndixie.com/storedetails/key%20biscayne/fl?search=373",
+        "phone": "+1 305-365-0771",
+        "latitude": 25.6896178,
+        "longitude": -80.1648649
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "465 Main Street",
+            "city": "Trussville",
+            "state": "AL",
+            "zip": "35173"
+        },
+        "website": "https://www.winndixie.com/storedetails/trussville/al?search=461",
+        "phone": "+1 205-661-0026",
+        "latitude": 33.6153319,
+        "longitude": -86.6181014
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "6257 US Highway 1",
+            "city": "Port Saint John",
+            "state": "FL",
+            "zip": "32927"
+        },
+        "website": "https://www.winndixie.com/storedetails/port%20st%20john/fl?search=2329",
+        "phone": "+1 321-636-3801",
+        "latitude": 28.471504,
+        "longitude": -80.7686734
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "7400 Cortez Road West",
+            "city": "Bradenton",
+            "state": "FL",
+            "zip": "34210"
+        },
+        "website": "https://www.winndixie.com/storedetails/bradenton/fl?search=656",
+        "phone": "+1 941-795-4638",
+        "latitude": 27.463576,
+        "longitude": -82.6357554
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2160 Southeast Federal Highway",
+            "city": "Stuart",
+            "state": "",
+            "zip": "34994"
+        },
+        "website": "",
+        "phone": "",
+        "latitude": 27.1783844,
+        "longitude": -80.239207
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "4400 Hardy Street",
+            "city": "Hattiesburg",
+            "state": "MS",
+            "zip": "39402"
+        },
+        "website": "https://www.winndixie.com/storedetails/hattiesburg/ms?search=2626",
+        "phone": "+1 601-268-1683",
+        "latitude": 31.3227067,
+        "longitude": -89.3541038
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1520 West University Boulevard",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32217"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=190",
+        "phone": "+1 904-448-5400",
+        "latitude": 30.259861,
+        "longitude": -81.643943
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "7480 Southwest 117th Avenue",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33183"
+        },
+        "website": "",
+        "phone": "",
+        "latitude": 25.6977617,
+        "longitude": -80.3836925
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "11241 SouthW. 40th Street",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33165"
+        },
+        "website": "https://www.winndixie.com/storedetails/miami/fl?search=254",
+        "phone": "+1 305-221-3660",
+        "latitude": 25.7343436,
+        "longitude": -80.3765078
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3805 Northeast 163rd Street",
+            "city": "North Miami Beach",
+            "state": "FL",
+            "zip": "33160"
+        },
+        "website": "https://www.winndixie.com/storedetails/n%20miami%20beach/fl?search=378",
+        "phone": "+1 305-949-8298",
+        "latitude": 25.9313712,
+        "longitude": -80.1336795
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "20417 Biscayne Boulevard",
+            "city": "Aventura",
+            "state": "FL",
+            "zip": "33180"
+        },
+        "website": "https://www.winndixie.com/storedetails/aventura/fl?search=291",
+        "phone": "+1 305-935-2969",
+        "latitude": 25.9648685,
+        "longitude": -80.1431014
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "92100 Overseas Highway",
+            "city": "Tavernier",
+            "state": "FL",
+            "zip": "33070"
+        },
+        "website": "https://www.winndixie.com/storedetails/tavernier/fl?search=328",
+        "phone": "+1 305-852-5904",
+        "latitude": 25.0046869,
+        "longitude": -80.5241623
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2112 Belle Chasse Highway",
+            "city": "Gretna",
+            "state": "LA",
+            "zip": "70056"
+        },
+        "website": "https://www.winndixie.com/storedetails/gretna/la?search=1405",
+        "phone": "+1 504-433-3646",
+        "latitude": 29.8879961,
+        "longitude": -90.0328309
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2778 North Roosevelt Boulevard",
+            "city": "Key West",
+            "state": "FL",
+            "zip": "33040"
+        },
+        "website": "https://www.winndixie.com/storedetails/key%20west/fl?search=317",
+        "phone": "+1 305-294-0491",
+        "latitude": 24.5645582,
+        "longitude": -81.7711588
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "4855 East Irlo Bronson Memorial Highway",
+            "city": "Saint Cloud",
+            "state": "FL",
+            "zip": "34771"
+        },
+        "website": "https://www.winndixie.com/storedetails/saint%20cloud/fl?search=2238",
+        "phone": "+1 407-892-3755",
+        "latitude": 28.2476041,
+        "longitude": -81.2452783
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "682 East Highway 50",
+            "city": "Clermont",
+            "state": "FL",
+            "zip": "34711"
+        },
+        "website": "https://www.winndixie.com/storedetails/clermont/fl?search=2245",
+        "phone": "+1 352-242-0027",
+        "latitude": 28.5497338,
+        "longitude": -81.7466237
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "100 Canaveral Plaza Boulevard",
+            "city": "Cocoa Beach",
+            "state": "FL",
+            "zip": "32931"
+        },
+        "website": "https://www.winndixie.com/storedetails/cocoa%20beach/fl?search=2325",
+        "phone": "+1 321-783-7265",
+        "latitude": 28.3559537,
+        "longitude": -80.6100841
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "901 North Nob Hill Road",
+            "city": "Plantation",
+            "state": "FL",
+            "zip": "33324"
+        },
+        "website": "https://www.winndixie.com/storedetails/plantation/fl?search=757",
+        "phone": "+1 954-473-8662",
+        "latitude": 26.1346149,
+        "longitude": -80.2887943
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3850 North 46th Avenue",
+            "city": "Hollywood",
+            "state": "FL",
+            "zip": "33021"
+        },
+        "website": "https://www.winndixie.com/storedetails/hollywood/fl?search=336",
+        "phone": "+1 954-987-7537",
+        "latitude": 26.0455655,
+        "longitude": -80.1915404
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "10580 Colonial Boulevard",
+            "city": "Fort Myers",
+            "state": "FL",
+            "zip": "33913"
+        },
+        "website": "https://www.winndixie.com/storedetails/fort%20myers/fl?search=2522",
+        "phone": "+1 239-561-0493",
+        "latitude": 26.6111183,
+        "longitude": -81.783434
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "8674 Navarre Parkway",
+            "city": "Navarre",
+            "state": "FL",
+            "zip": "32566"
+        },
+        "website": "https://www.winndixie.com/storedetails/navarre/fl?search=501",
+        "phone": "+1 850-939-5627",
+        "latitude": 30.4029644,
+        "longitude": -86.8600918
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "906 S. Main Street",
+            "city": "LaBelle",
+            "state": "FL",
+            "zip": "33935"
+        },
+        "website": "https://www.winndixie.com/storedetails/la%20belle/fl?search=721",
+        "phone": "+1 863-675-3838",
+        "latitude": 26.7476307,
+        "longitude": -81.439351
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1010 Ponce De Leon Boulevard South",
+            "city": "Saint Augustine",
+            "state": "FL",
+            "zip": "32084"
+        },
+        "website": "https://www.winndixie.com/storedetails/st%20augustine/fl?search=77",
+        "phone": "+1 904-829-5509",
+        "latitude": 29.8799269,
+        "longitude": -81.3262199
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1571 Westgate Parkway",
+            "city": "Dothan",
+            "state": "AL",
+            "zip": "36303"
+        },
+        "website": "https://www.winndixie.com/storedetails/dothan/al?search=426",
+        "phone": "+1 334-794-4377",
+        "latitude": 31.25947,
+        "longitude": -85.43219
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3551 North Ponce De Leon Boulevard",
+            "city": "Saint Augustine",
+            "state": "FL",
+            "zip": "32084"
+        },
+        "website": "https://www.winndixie.com/storedetails/st%20augustine/fl?search=182",
+        "phone": "+1 904-824-6233",
+        "latitude": 29.9251332,
+        "longitude": -81.3278429
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": " ",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32259"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=2",
+        "phone": "+1 904-823-2122",
+        "latitude": 30.0611884,
+        "longitude": -81.5137531
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "9701 Chef Menteur Highway",
+            "city": "New Orleans",
+            "state": "LA",
+            "zip": "70127"
+        },
+        "website": "https://www.winndixie.com/storedetails/new orleans/la?search=1439",
+        "phone": "+1 504-244-0701",
+        "latitude": 30.0187611,
+        "longitude": -89.972315
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3030 Pontchartrain Drive",
+            "city": "Slidell",
+            "state": "LA",
+            "zip": "70458"
+        },
+        "website": "https://www.winndixie.com/storedetails/slidell/la?search=1504",
+        "phone": "+1 985-645-0026",
+        "latitude": 30.261982,
+        "longitude": -89.7840406
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3008 Holiday Drive",
+            "city": "New Orleans",
+            "state": "LA",
+            "zip": "70131"
+        },
+        "website": "https://www.winndixie.com/storedetails/new%20orleans/la?search=1426",
+        "phone": "+1 504-398-0313",
+        "latitude": 29.9235993,
+        "longitude": -90.0118608
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "9864 Stringfellow Road",
+            "city": "Saint James City",
+            "state": "FL",
+            "zip": "33956"
+        },
+        "website": "https://www.winndixie.com/storedetails/st%20james%20city/fl?search=726",
+        "phone": "+1 239-283-4404",
+        "latitude": 26.6053179,
+        "longitude": -82.113575
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "190 Malabar Road Southwest",
+            "city": "Palm Bay",
+            "state": "FL",
+            "zip": "32907"
+        },
+        "website": "https://www.winndixie.com/storedetails/palm%20bay/fl?search=2230",
+        "phone": "+1 321-952-1680",
+        "latitude": 27.9976604,
+        "longitude": -80.6753669
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1459 Northwest 23rd Avenue",
+            "city": "Gainesville",
+            "state": "FL",
+            "zip": "32605"
+        },
+        "website": "https://www.winndixie.com/storedetails/gainesville/fl?search=2564",
+        "phone": "+1 352-565-4327",
+        "latitude": 29.6729119,
+        "longitude": -82.3405992
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "205 West Alexander Street",
+            "city": "Plant City",
+            "state": "FL",
+            "zip": "33566"
+        },
+        "website": "https://www.winndixie.com/storedetails/plant%20city/fl?search=2435",
+        "phone": "+1 813-754-9338",
+        "latitude": 27.9871053,
+        "longitude": -82.1235264
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "5270 Babcock Street",
+            "city": "Palm Bay",
+            "state": "FL",
+            "zip": "32905"
+        },
+        "website": "https://www.winndixie.com/storedetails/palm%20bay/fl?search=2333",
+        "phone": "+1 321-728-1876",
+        "latitude": 28.0176847,
+        "longitude": -80.6247194
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3116 West Commercial Boulevard",
+            "city": "Tamarac",
+            "state": "FL",
+            "zip": "33309"
+        },
+        "website": "https://www.winndixie.com/storedetails/tamarac/fl?search=210",
+        "phone": "+1 954-739-9607",
+        "latitude": 26.184462,
+        "longitude": -80.1887063
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1604 Lake Trafford Road",
+            "city": "Immokalee",
+            "state": "FL",
+            "zip": "34142"
+        },
+        "website": "https://www.winndixie.com/storedetails/immokalee/fl?search=759",
+        "phone": "+1 239-657-2023",
+        "latitude": 26.4340871,
+        "longitude": -81.4359301
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "941 Southwest 24th Street",
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "zip": "33315"
+        },
+        "website": "https://www.winndixie.com/storedetails/ft%20lauderdale/fl?search=236",
+        "phone": "+1 954-763-2191",
+        "latitude": 26.0932047,
+        "longitude": -80.1545347
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2057 South Byron Butler Parkway",
+            "city": "Perry",
+            "state": "FL",
+            "zip": "32348"
+        },
+        "website": "https://www.winndixie.com/storedetails/perry/fl?search=104",
+        "phone": "+1 850-584-5614",
+        "latitude": 30.0972106,
+        "longitude": -83.5840846
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1952 West Dallas Avenue",
+            "city": "Selma",
+            "state": "AL",
+            "zip": "36701"
+        },
+        "website": "https://www.winndixie.com/storedetails/selma/al?search=543",
+        "phone": "+1 334-872-7007",
+        "latitude": 32.3982667,
+        "longitude": -87.065826
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "7915 South Dixie Highway",
+            "city": "West Palm Beach",
+            "state": "FL",
+            "zip": "33405"
+        },
+        "website": "https://www.winndixie.com/storedetails/west%20palm%20beach/fl?search=309",
+        "phone": "+1 561-585-5720",
+        "latitude": 26.6467999,
+        "longitude": -80.0578406
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1260 Palm Coast Parkway West",
+            "city": "Palm Coast",
+            "state": "FL",
+            "zip": "32137"
+        },
+        "website": "https://www.winndixie.com/storedetails/palm%20coast/fl?search=2247",
+        "phone": "+1 386-446-4774",
+        "latitude": 29.5504577,
+        "longitude": -81.2294052
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1830 West Airline Highway",
+            "city": "La Place",
+            "state": "LA",
+            "zip": "70068"
+        },
+        "website": "https://www.winndixie.com/storedetails/la%20place/la?search=1583",
+        "phone": "+1 985-653-0860",
+        "latitude": 30.0755841,
+        "longitude": -90.5026212
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1515 East Hallandale Beach Boulevard",
+            "city": "Hallandale",
+            "state": "FL",
+            "zip": "33009"
+        },
+        "website": "https://www.winndixie.com/storedetails/hallandale/fl?search=306",
+        "phone": "+1 954-454-6676",
+        "latitude": 25.9869415,
+        "longitude": -80.132074
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "980 Ives Dairy Road",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33179"
+        },
+        "website": "https://www.winndixie.com/storedetails/miami/fl?search=357",
+        "phone": "+1 305-653-2657",
+        "latitude": 25.9617661,
+        "longitude": -80.1852442
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2000 Kings Highway",
+            "city": "Port Charlotte",
+            "state": "FL",
+            "zip": "33980"
+        },
+        "website": "https://www.winndixie.com/storedetails/port%20charlotte/fl?search=737",
+        "phone": "+1 941-629-2662",
+        "latitude": 27.0040959,
+        "longitude": -82.0530806
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "4056 North Armenia Avenue",
+            "city": "Tampa",
+            "state": "FL",
+            "zip": "33607"
+        },
+        "website": "https://www.winndixie.com/storedetails/tampa/fl?search=2451",
+        "phone": "+1 813-876-2008",
+        "latitude": 27.9756201,
+        "longitude": -82.4859997
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "5100 Highway 39N",
+            "city": "Meridian",
+            "state": "MS",
+            "zip": "39301"
+        },
+        "website": "https://www.winndixie.com/storedetails/meridian/ms?search=533",
+        "phone": "+1 601-485-0808",
+        "latitude": 32.4124082,
+        "longitude": -88.6769262
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "5850 Southwest 73rd Street",
+            "city": "",
+            "state": "",
+            "zip": "33143"
+        },
+        "website": "",
+        "phone": "+1 305-666-5241",
+        "latitude": 25.702758,
+        "longitude": -80.2888212
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1565 West Orange Blossom Trail",
+            "city": "Apopka",
+            "state": "FL",
+            "zip": "32712"
+        },
+        "website": "https://www.winndixie.com/storedetails/apopka/fl?search=2246",
+        "phone": "+1 407-880-8299",
+        "latitude": 28.6881589,
+        "longitude": -81.5370939
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "4512 John Sims Parkway",
+            "city": "Niceville",
+            "state": "FL",
+            "zip": "32578"
+        },
+        "website": "https://www.winndixie.com/storedetails/niceville/fl?search=551",
+        "phone": "+1 850-897-3535",
+        "latitude": 30.4871186,
+        "longitude": -86.4191649
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1803 La Highway 3125",
+            "city": "Gramercy",
+            "state": "LA",
+            "zip": "70052"
+        },
+        "website": "https://www.winndixie.com/storedetails/gramercy/la?search=1463",
+        "phone": "+1 225-869-8090",
+        "latitude": 30.0610324,
+        "longitude": -90.6999081
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3610 US 27 North",
+            "city": "Sebring",
+            "state": "FL",
+            "zip": "33870"
+        },
+        "website": "https://www.winndixie.com/storedetails/sebring/fl?search=687",
+        "phone": "+1 863-382-6479",
+        "latitude": 27.5126819,
+        "longitude": -81.4921242
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1105 Northeast Jensen Beach Boulevard",
+            "city": "Jensen Beach",
+            "state": "FL",
+            "zip": "34957"
+        },
+        "website": "https://www.winndixie.com/storedetails/jensen%20beach/fl?search=308",
+        "phone": "+1 772-334-7270",
+        "latitude": 27.2460601,
+        "longitude": -80.2367817
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "802 US Highway 27S",
+            "city": "Avon Park",
+            "state": "FL",
+            "zip": "33825"
+        },
+        "website": "https://www.winndixie.com/storedetails/avon%20park/fl?search=609",
+        "phone": "+1 863-452-1995",
+        "latitude": 27.5879142,
+        "longitude": -81.5159288
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "11290 State Road 84",
+            "city": "Davie",
+            "state": "FL",
+            "zip": "33325"
+        },
+        "website": "https://www.winndixie.com/storedetails/davie/fl?search=311",
+        "phone": "+1 954-916-4121",
+        "latitude": 26.1091098,
+        "longitude": -80.2997723
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "15200 Municipal Drive",
+            "city": "Madeira Beach",
+            "state": "FL",
+            "zip": "33708"
+        },
+        "website": "https://www.winndixie.com/storedetails/madeira%20beach/fl?search=658",
+        "phone": "+1 727-392-1003",
+        "latitude": 27.8033903,
+        "longitude": -82.8028085
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1133 South 6th Avenue",
+            "city": "Wauchula",
+            "state": "FL",
+            "zip": "33873"
+        },
+        "website": "https://www.winndixie.com/storedetails/wauchula/fl?search=2550",
+        "phone": "+1 863-767-0206",
+        "latitude": 27.5312855,
+        "longitude": -81.8086866
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "7024 Beracasa Way",
+            "city": "Boca Raton",
+            "state": "FL",
+            "zip": "33433"
+        },
+        "website": "https://www.winndixie.com/storedetails/boca%20raton/fl?search=355",
+        "phone": "+1 561-368-5442",
+        "latitude": 26.3529604,
+        "longitude": -80.155512
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1122 North Main Street",
+            "city": "Bushnell",
+            "state": "FL",
+            "zip": "33513"
+        },
+        "website": "https://www.winndixie.com/storedetails/bushnell/fl?search=2320",
+        "phone": "+1 352-568-0663",
+        "latitude": 28.6821594,
+        "longitude": -82.1120682
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1326 North Ferdon Boulevard",
+            "city": "Crestview",
+            "state": "FL",
+            "zip": "32536"
+        },
+        "website": "https://www.winndixie.com/storedetails/crestview/fl?search=558",
+        "phone": "+1 850-689-1551",
+        "latitude": 30.7937724,
+        "longitude": -86.5590939
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "5802 14th Street West",
+            "city": "Bradenton",
+            "state": "FL",
+            "zip": "34207"
+        },
+        "website": "https://www.winndixie.com/storedetails/bradenton/fl?search=2519",
+        "phone": "+1 941-751-4394",
+        "latitude": 27.4380664,
+        "longitude": -82.5768743
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3320 Southeast Federal Highway",
+            "city": "Stuart",
+            "state": "FL",
+            "zip": "34997"
+        },
+        "website": "https://www.winndixie.com/storedetails/stuart/fl?search=364",
+        "phone": "+1 772-283-2511",
+        "latitude": 27.1402515,
+        "longitude": -80.2085095
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "6770 Southwest 40th Street",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33155"
+        },
+        "website": "https://www.winndixie.com/storedetails/miami/fl?search=249",
+        "phone": "+1 305-661-1863",
+        "latitude": 25.7315213,
+        "longitude": -80.3042688
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "8710 Southwest 72nd Street",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33173"
+        },
+        "website": "https://www.winndixie.com/storedetails/miami/fl?search=370",
+        "phone": "+1 305-279-5719",
+        "latitude": 25.7009048,
+        "longitude": -80.3347141
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "10915-122 Baymeadows Road",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32256"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=7",
+        "phone": "+1 904-519-9952",
+        "latitude": 30.2174641,
+        "longitude": -81.5183121
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "220 Retreat Village",
+            "city": "Saint Simons Island",
+            "state": "GA",
+            "zip": "31522"
+        },
+        "website": "https://www.winndixie.com/storedetails/st%20simons%20island/ga?search=19",
+        "phone": "+1 912-638-4805",
+        "latitude": 31.158272,
+        "longitude": -81.3914157
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "290 Solana Road",
+            "city": "Ponte Vedra Beach",
+            "state": "FL",
+            "zip": "32082"
+        },
+        "website": "https://www.winndixie.com/storedetails/ponte%20vedra%20beach/fl?search=5",
+        "phone": "+1 904-543-8668",
+        "latitude": 30.2265495,
+        "longitude": -81.3889387
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1245 South Jefferson Street",
+            "city": "Monticello",
+            "state": "FL",
+            "zip": "32344"
+        },
+        "website": "https://www.winndixie.com/storedetails/monticello/fl?search=3",
+        "phone": "+1 850-997-2247",
+        "latitude": 30.5351239,
+        "longitude": -83.8712088
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "4025 South Nova Road",
+            "city": "Port Orange",
+            "state": "FL",
+            "zip": "32127"
+        },
+        "website": "https://www.winndixie.com/storedetails/port%20orange/fl?search=2311",
+        "phone": "+1 386-756-4814",
+        "latitude": 29.1187537,
+        "longitude": -80.9943442
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "9750 Highway 69 South",
+            "city": "Tuscaloosa",
+            "state": "AL",
+            "zip": "35405"
+        },
+        "website": "https://www.winndixie.com/storedetails/tuscaloosa/al?search=479",
+        "phone": "+1 205-366-0355",
+        "latitude": 33.1179128,
+        "longitude": -87.5530012
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "900 South Main Street",
+            "city": "Belle Glade",
+            "state": "FL",
+            "zip": "33430"
+        },
+        "website": "https://www.winndixie.com/storedetails/belle%20glade/fl?search=381",
+        "phone": "+1 561-996-7886",
+        "latitude": 26.6751479,
+        "longitude": -80.6720503
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "5207 Normandy Boulevard",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32205"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=191",
+        "phone": "+1 904-786-5181",
+        "latitude": 30.3103726,
+        "longitude": -81.7352788
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1339 Blanding Boulevard",
+            "city": "Middleburg",
+            "state": "FL",
+            "zip": "32068"
+        },
+        "website": "https://www.winndixie.com/storedetails/orange%20park/fl?search=8",
+        "phone": "+1 904-272-1547",
+        "latitude": 30.1221735,
+        "longitude": -81.7985344
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "5210 Norwood Avenue",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32208"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=108",
+        "phone": "+1 904-768-0355",
+        "latitude": 30.37112,
+        "longitude": -81.665491
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "951 West State Road 434",
+            "city": "Longwood",
+            "state": "FL",
+            "zip": "32750"
+        },
+        "website": "https://www.winndixie.com/storedetails/longwood/fl?search=2233",
+        "phone": "+1 407-332-8025",
+        "latitude": 28.6989739,
+        "longitude": -81.3607186
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1070 Northwest Santa Fe Boulevard",
+            "city": "High Springs",
+            "state": "FL",
+            "zip": "32643"
+        },
+        "website": "https://www.winndixie.com/storedetails/high%20springs/fl?search=30",
+        "phone": "+1 386-454-3067",
+        "latitude": 29.8414419,
+        "longitude": -82.602025
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "458 North Venice Bypass",
+            "city": "Venice",
+            "state": "FL",
+            "zip": "34285"
+        },
+        "website": "https://www.winndixie.com/storedetails/venice/fl?search=2401",
+        "phone": "+1 941-486-8517",
+        "latitude": 27.1079902,
+        "longitude": -82.4370311
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2200 South Atlantic Avenue",
+            "city": "Daytona Beach Shores",
+            "state": "FL",
+            "zip": "32118"
+        },
+        "website": "https://www.winndixie.com/storedetails/daytona%20beach%20shores/fl?search=2263",
+        "phone": "+1 386-253-7713",
+        "latitude": 29.1960248,
+        "longitude": -80.9938734
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "65 Poinciana Boulevard",
+            "city": "Miramar Beach",
+            "state": "FL",
+            "zip": "32550"
+        },
+        "website": "https://www.winndixie.com/storedetails/miramar%20beach/fl?search=510",
+        "phone": "+1 850-650-2139",
+        "latitude": 30.3771247,
+        "longitude": -86.3523484
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1030 US Highway 331 South",
+            "city": "Defuniak Springs",
+            "state": "FL",
+            "zip": "32435"
+        },
+        "website": "https://www.winndixie.com/storedetails/defuniak springs/fl?search=577",
+        "phone": "+1 850-892-0668",
+        "latitude": 30.7076226,
+        "longitude": -86.1243605
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1436 South 6th Street",
+            "city": "Macclenny",
+            "state": "FL",
+            "zip": "32063"
+        },
+        "website": "https://www.winndixie.com/storedetails/macclenny/fl?search=144",
+        "phone": "+1 904-259-2204",
+        "latitude": 30.264619,
+        "longitude": -82.124269
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1541 North Nova Road",
+            "city": "Holly Hill",
+            "state": "FL",
+            "zip": "32117"
+        },
+        "website": "https://www.winndixie.com/storedetails/holly hill/fl?search=2258",
+        "phone": "+1 386-257-7774",
+        "latitude": 29.237291,
+        "longitude": -81.055061
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1838 South Ridgewood Avenue",
+            "city": "Edgewater",
+            "state": "FL",
+            "zip": "32141"
+        },
+        "website": "https://www.winndixie.com/storedetails/edgewater/fl?search=2203",
+        "phone": "+1 386-427-2094",
+        "latitude": 28.9709289,
+        "longitude": -80.8969094
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "18407 US Highway 41",
+            "city": "Lutz",
+            "state": "FL",
+            "zip": "33549"
+        },
+        "website": "https://www.winndixie.com/storedetails/lutz/fl?search=611",
+        "phone": "+1 813-948-1184",
+        "latitude": 28.1405017,
+        "longitude": -82.4617088
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1910 Park Avenue",
+            "city": "Orange Park",
+            "state": "FL",
+            "zip": "32073"
+        },
+        "website": "https://www.winndixie.com/storedetails/orange%20park/fl?search=43",
+        "phone": "+1 904-269-0822",
+        "latitude": 30.1669784,
+        "longitude": -81.7023265
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3792 Suncoast Boulevard",
+            "city": "Homosassa Springs",
+            "state": "FL",
+            "zip": "34448"
+        },
+        "website": "https://www.winndixie.com/storedetails/homosassa/fl?search=2223",
+        "phone": "+1 352-628-1918",
+        "latitude": 28.8070348,
+        "longitude": -82.5783748
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "7131 North US Highway 441",
+            "city": "Ocala",
+            "state": "FL",
+            "zip": "34475"
+        },
+        "website": "https://www.winndixie.com/storedetails/ocala/fl?search=2437",
+        "phone": "+1 352-351-0100",
+        "latitude": 29.2610223,
+        "longitude": -82.1500663
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "8775 Old Kings Road South",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32217"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=25",
+        "phone": "+1 904-636-8962",
+        "latitude": 30.2212977,
+        "longitude": -81.591326
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1060 Lakes Boulevard",
+            "city": "Lake Park",
+            "state": "GA",
+            "zip": "31636"
+        },
+        "website": "https://www.winndixie.com/storedetails/lake%20park/ga?search=32",
+        "phone": "+1 229-559-6409",
+        "latitude": 30.6808991,
+        "longitude": -83.217158
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2960 Curry Ford Road",
+            "city": "Orlando",
+            "state": "FL",
+            "zip": "32806"
+        },
+        "website": "https://www.winndixie.com/storedetails/orlando/fl?search=2288",
+        "phone": "+1 407-897-3579",
+        "latitude": 28.5236089,
+        "longitude": -81.3445674
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "211 Veterans Memorial Boulevard",
+            "city": "Metairie",
+            "state": "LA",
+            "zip": "70005"
+        },
+        "website": "https://www.winndixie.com/storedetails/metairie/la?search=1329",
+        "phone": "+1 504-831-8544",
+        "latitude": 30.0017608,
+        "longitude": -90.1251289
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "187 Baldwin Square",
+            "city": "Fairhope",
+            "state": "AL",
+            "zip": "36532"
+        },
+        "website": "https://www.winndixie.com/storedetails/fairhope/al?search=599",
+        "phone": "+1 251-990-5188",
+        "latitude": 30.5206562,
+        "longitude": -87.8847345
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "4224 US-90",
+            "city": "Pace",
+            "state": "FL",
+            "zip": "32571"
+        },
+        "website": "https://www.winndixie.com/storedetails/pace/fl?search=507",
+        "phone": "+1 850-994-4240",
+        "latitude": 30.6051936,
+        "longitude": -87.147482
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2535 State Road 60 East",
+            "city": "Valrico",
+            "state": "FL",
+            "zip": "33594"
+        },
+        "website": "https://www.winndixie.com/storedetails/valrico/fl?search=2505",
+        "phone": "+1 813-651-9535",
+        "latitude": 27.9365674,
+        "longitude": -82.242837
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "5420 New Jesup Highway",
+            "city": "Brunswick",
+            "state": "GA",
+            "zip": "31525"
+        },
+        "website": "https://www.winndixie.com/storedetails/brunswick/ga?search=159",
+        "phone": "+1 912-264-5429",
+        "latitude": 31.226247,
+        "longitude": -81.5255282
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1941 Glynn Avenue",
+            "city": "Brunswick",
+            "state": "GA",
+            "zip": "31520"
+        },
+        "website": "https://www.winndixie.com/storedetails/brunswick/ga?search=60",
+        "phone": "+1 912-267-0557",
+        "latitude": 31.1599753,
+        "longitude": -81.478997
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "341 Venture Drive",
+            "city": "Brunswick",
+            "state": "GA",
+            "zip": "31525"
+        },
+        "website": "https://www.winndixie.com/storedetails/brunswick/ga?search=67",
+        "phone": "+1 912-264-0698",
+        "latitude": 31.2480461,
+        "longitude": -81.5065116
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1491 South Dixie Highway",
+            "city": "Lantana",
+            "state": "FL",
+            "zip": "33462"
+        },
+        "website": "https://www.winndixie.com/storedetails/lantana/fl?search=271",
+        "phone": "+1 561-586-5820",
+        "latitude": 26.572764,
+        "longitude": -80.0552621
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "5410 Murrell Road",
+            "city": "Rockledge",
+            "state": "FL",
+            "zip": "32955"
+        },
+        "website": "https://www.winndixie.com/storedetails/viera/fl?search=2557",
+        "phone": "+1 321-616-7598",
+        "latitude": 28.2674749,
+        "longitude": -80.7197874
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "901 Highway 19 South",
+            "city": "Palatka",
+            "state": "FL",
+            "zip": "32177"
+        },
+        "website": "https://www.winndixie.com/storedetails/palatka/fl?search=163",
+        "phone": "+1 386-325-5743",
+        "latitude": 29.6392492,
+        "longitude": -81.6755541
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2720 Blanding Boulevard",
+            "city": "Middleburg",
+            "state": "FL",
+            "zip": "32068"
+        },
+        "website": "https://www.winndixie.com/storedetails/middleburg/fl?search=93",
+        "phone": "+1 904-282-3818",
+        "latitude": 30.0614632,
+        "longitude": -81.8781629
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "944 Bichara Boulevard",
+            "city": "Lady Lake",
+            "state": "FL",
+            "zip": "32159"
+        },
+        "website": "https://www.winndixie.com/storedetails/lady lake/fl?search=2337",
+        "phone": "+1 352-753-5073",
+        "latitude": 28.9365894,
+        "longitude": -81.9447881
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "27405 US Highway 27",
+            "city": "Leesburg",
+            "state": "FL",
+            "zip": "34748"
+        },
+        "website": "https://www.winndixie.com/storedetails/leesburg/fl?search=2336",
+        "phone": "+1 352-315-4188",
+        "latitude": 28.746449,
+        "longitude": -81.878715
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1061 US Highway 280",
+            "city": "Alexander City",
+            "state": "AL",
+            "zip": "35010"
+        },
+        "website": "https://www.winndixie.com/storedetails/alexander%20city/al?search=456",
+        "phone": "+1 256-234-5141",
+        "latitude": 32.9219141,
+        "longitude": -85.9611728
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "6425 County Line Road",
+            "city": "Tampa",
+            "state": "FL",
+            "zip": "33647"
+        },
+        "website": "https://www.winndixie.com/storedetails/tampa/fl?search=2529",
+        "phone": "+1 813-907-2024",
+        "latitude": 28.169089,
+        "longitude": -82.356631
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "804 West Oak Street",
+            "city": "Amite",
+            "state": "LA",
+            "zip": "70422"
+        },
+        "website": "https://www.winndixie.com/storedetails/amite/la?search=1449",
+        "phone": "+1 985-748-7144",
+        "latitude": 30.72802,
+        "longitude": -90.5206937
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1390 East Boone Street",
+            "city": "Kingsland",
+            "state": "GA",
+            "zip": "31548"
+        },
+        "website": "https://www.winndixie.com/storedetails/kingsland/ga?search=166",
+        "phone": "+1 912-729-3621",
+        "latitude": 30.7848883,
+        "longitude": -81.6485392
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "19167 South Dixie Highway",
+            "city": "Cutler Bay",
+            "state": "FL",
+            "zip": "33157"
+        },
+        "website": "https://www.winndixie.com/storedetails/cutler%20bay/fl?search=371",
+        "phone": "+1 305-232-1316",
+        "latitude": 25.5901283,
+        "longitude": -80.3568936
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "4627 Westbank Expressway",
+            "city": "Marrero",
+            "state": "LA",
+            "zip": "70072"
+        },
+        "website": "https://www.winndixie.com/storedetails/marrero/la?search=1440",
+        "phone": "+1 504-340-9898",
+        "latitude": 29.8938512,
+        "longitude": -90.0970334
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "8601 Siegen Lane",
+            "city": "Baton Rouge",
+            "state": "LA",
+            "zip": "70810"
+        },
+        "website": "https://www.winndixie.com/storedetails/baton%20rouge/la?search=1461",
+        "phone": "+1 225-766-8400",
+        "latitude": 30.370344,
+        "longitude": -91.07192
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "7921 Normandy Boulevard",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32221"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=153",
+        "phone": "+1 904-783-6901",
+        "latitude": 30.294448,
+        "longitude": -81.7799612
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "731 Washington Street",
+            "city": "Franklinton",
+            "state": "LA",
+            "zip": "70438"
+        },
+        "website": "https://www.winndixie.com/storedetails/franklinton/la?search=1501",
+        "phone": "+1 985-839-5525",
+        "latitude": 30.8461319,
+        "longitude": -90.1591911
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2714 Osborne Road",
+            "city": "Saint Marys",
+            "state": "GA",
+            "zip": "31558"
+        },
+        "website": "https://www.winndixie.com/storedetails/saint%20marys/ga?search=70",
+        "phone": "+1 912-882-6714",
+        "latitude": 30.7540139,
+        "longitude": -81.57873
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1625 Cordova Road",
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "zip": "33316"
+        },
+        "website": "https://www.winndixie.com/storedetails/ft lauderdale/fl?search=226",
+        "phone": "+1 954-763-2275",
+        "latitude": 26.101755,
+        "longitude": -80.1314042
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "14900 Northwest 7th Avenue",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33168"
+        },
+        "website": "https://www.winndixie.com/storedetails/miami/fl?search=343",
+        "phone": "+1 305-685-9586",
+        "latitude": 25.9116816,
+        "longitude": -80.2130074
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "17221 Northwest 27th Avenue",
+            "city": "Miami Gardens",
+            "state": "FL",
+            "zip": "33056"
+        },
+        "website": "https://www.winndixie.com/storedetails/miami gardens/fl?search=246",
+        "phone": "+1 305-625-6155",
+        "latitude": 25.931368,
+        "longitude": -80.243674
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "30346 Old Dixie Highway",
+            "city": "Homestead",
+            "state": "FL",
+            "zip": "33030"
+        },
+        "website": "https://www.winndixie.com/storedetails/homestead/fl?search=319",
+        "phone": "+1 305-246-3998",
+        "latitude": 25.486678,
+        "longitude": -80.463337
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "18302 Southwest 137th Avenue",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33177"
+        },
+        "website": "https://www.winndixie.com/storedetails/miami/fl?search=389",
+        "phone": "+1 305-234-0265",
+        "latitude": 25.597582,
+        "longitude": -80.414972
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3807 Northwest 7th Street",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33126"
+        },
+        "website": "https://www.winndixie.com/storedetails/miami/fl?search=369",
+        "phone": "+1 305-817-5525",
+        "latitude": 25.780823,
+        "longitude": -80.258702
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1150 Northwest 54th Street",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33127"
+        },
+        "website": "https://www.winndixie.com/storedetails/miami/fl?search=214",
+        "phone": "+1 305-757-0696",
+        "latitude": 25.8235328,
+        "longitude": -80.2150806
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": " West 49th Street",
+            "city": "Hialeah",
+            "state": "FL",
+            "zip": "33012"
+        },
+        "website": "https://www.winndixie.com/storedetails/hialeah/fl?search=293",
+        "phone": "+1 305-822-7740",
+        "latitude": 25.8649499,
+        "longitude": -80.3166431
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": " Northwest 77th Court",
+            "city": "Miami Lakes",
+            "state": "FL",
+            "zip": "33016"
+        },
+        "website": "https://www.winndixie.com/storedetails/miami lakes/fl?search=262",
+        "phone": "+1 305-558-9207",
+        "latitude": 25.9150449,
+        "longitude": -80.3283669
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1050 58 Street North",
+            "city": "Saint Petersburg",
+            "state": "FL",
+            "zip": "33710"
+        },
+        "website": "https://www.winndixie.com/storedetails/st petersburg/fl?search=671",
+        "phone": "+1 727-345-0063",
+        "latitude": 27.783069,
+        "longitude": -82.7127698
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": " 53rd Avenue East",
+            "city": "Bradenton",
+            "state": "FL",
+            "zip": "34203"
+        },
+        "website": "https://www.winndixie.com/storedetails/bradenton/fl?search=755",
+        "phone": "+1 941-753-5940",
+        "latitude": 27.4464407,
+        "longitude": -82.5539438
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "5400 Fruitville Road",
+            "city": "Sarasota",
+            "state": "FL",
+            "zip": "34232"
+        },
+        "website": "https://www.winndixie.com/storedetails/sarasota/fl?search=657",
+        "phone": "+1 941-342-8383",
+        "latitude": 27.3362629,
+        "longitude": -82.4608107
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1254 Jacaranda",
+            "city": "Venice",
+            "state": "FL",
+            "zip": "34292"
+        },
+        "website": "https://www.winndixie.com/storedetails/venice/fl?search=2427",
+        "phone": "+1 941-497-2602",
+        "latitude": 27.0803498,
+        "longitude": -82.3872157
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "4100 McCall Road",
+            "city": "Englewood",
+            "state": "FL",
+            "zip": "34224"
+        },
+        "website": "https://www.winndixie.com/storedetails/englewood/fl?search=720",
+        "phone": "+1 941-473-8909",
+        "latitude": 26.9337296,
+        "longitude": -82.2706296
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "27680 Bermont Road",
+            "city": "Punta Gorda",
+            "state": "FL",
+            "zip": "33982"
+        },
+        "website": "https://www.winndixie.com/storedetails/punta gorda/fl?search=741",
+        "phone": "+1 941-505-9208",
+        "latitude": 26.9479537,
+        "longitude": -81.9986687
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "5660 Bayshore Road",
+            "city": "Fort Myers",
+            "state": "FL",
+            "zip": "33917"
+        },
+        "website": "https://www.winndixie.com/storedetails/fort myers/fl?search=2480",
+        "phone": "+1 239-731-1007",
+        "latitude": 26.6878899,
+        "longitude": -81.8634999
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "61 Bell Boulevard North",
+            "city": "Lehigh Acres",
+            "state": "FL",
+            "zip": "33936"
+        },
+        "website": "https://www.winndixie.com/storedetails/lehigh acres/fl?search=2474",
+        "phone": "+1 239-369-6200",
+        "latitude": 26.6026263,
+        "longitude": -81.6124641
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "4849 Golden Gate Parkway",
+            "city": "Naples",
+            "state": "FL",
+            "zip": "34116"
+        },
+        "website": "https://www.winndixie.com/storedetails/naples/fl?search=743",
+        "phone": "+1 239-455-3244",
+        "latitude": 26.1820098,
+        "longitude": -81.7071853
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "13300 South Cleveland Avenue",
+            "city": "Fort Myers",
+            "state": "FL",
+            "zip": "33907"
+        },
+        "website": "https://www.winndixie.com/storedetails/fort myers/fl?search=2571",
+        "phone": "+1 239-437-4037",
+        "latitude": 26.5488295,
+        "longitude": -81.8748993
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "550969 US Highway 1",
+            "city": "Hilliard",
+            "state": "FL",
+            "zip": "32046"
+        },
+        "website": "https://www.winndixie.com/storedetails/hilliard/fl?search=142",
+        "phone": "+1 904-845-3782",
+        "latitude": 30.6731467,
+        "longitude": -81.9019236
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "450078 State Route 200",
+            "city": "Callahan",
+            "state": "FL",
+            "zip": "32011"
+        },
+        "website": "https://www.winndixie.com/storedetails/callahan/fl?search=151",
+        "phone": "+1 904-879-4833",
+        "latitude": 30.5674367,
+        "longitude": -81.8253956
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3538 Blanding Boulevard",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32210"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=183;https://www.winndixie.com/storedetails/jacksonville/fl?search=177",
+        "phone": "+1 904-779-5906;+1 904-771-2822",
+        "latitude": 30.2715942,
+        "longitude": -81.7379775
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2851 Henley Road",
+            "city": "Green Cove Springs",
+            "state": "FL",
+            "zip": "32043"
+        },
+        "website": "https://www.winndixie.com/storedetails/green cove springs/fl?search=135",
+        "phone": "+1 904-899-6900",
+        "latitude": 30.0469877,
+        "longitude": -81.8075865
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "100 Little Cypress Drive",
+            "city": "Saint Johns",
+            "state": "FL",
+            "zip": "32259"
+        },
+        "website": "https://www.winndixie.com/storedetails/saint johns/fl?search=121",
+        "phone": "+1 904-895-7261",
+        "latitude": 30.1036415,
+        "longitude": -81.4795225
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "11380 Beach Boulevard",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32246"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=195",
+        "phone": "+1 904-996-0990",
+        "latitude": 30.2852692,
+        "longitude": -81.5269386
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "12777 Atlantic Boulevard",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32225"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=174",
+        "phone": "+1 904-221-3062",
+        "latitude": 30.3204308,
+        "longitude": -81.4714414
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1531 Monument Road",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32225"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=54",
+        "phone": "+1 904-646-0771",
+        "latitude": 30.3462714,
+        "longitude": -81.5244688
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": " ",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32277"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=51",
+        "phone": "+1 904-743-0251",
+        "latitude": 30.3652025,
+        "longitude": -81.5965623
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "999 University Boulevard North",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32211"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=96",
+        "phone": "+1 904-893-4213",
+        "latitude": 30.3306647,
+        "longitude": -81.6026368
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2100 Collins Boulevard",
+            "city": "Covington",
+            "state": "LA",
+            "zip": "70433"
+        },
+        "website": "https://www.winndixie.com/storedetails/covington/la?search=1448",
+        "phone": "+1 985-893-1531",
+        "latitude": 30.4985008,
+        "longitude": -90.1085241
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "109 North Cleveland Avenue",
+            "city": "Long Beach",
+            "state": "MS",
+            "zip": "39560"
+        },
+        "website": "https://www.winndixie.com/storedetails/long beach/ms?search=1479",
+        "phone": "+1 228-863-8680",
+        "latitude": 30.3536341,
+        "longitude": -89.1484567
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "10511 D'Iberville Boulevard",
+            "city": "Diberville",
+            "state": "MS",
+            "zip": "39540"
+        },
+        "website": "https://www.winndixie.com/storedetails/diberville/ms?search=1513",
+        "phone": "+1 228-392-9298",
+        "latitude": 30.439121,
+        "longitude": -88.898262
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3319 Gulf Breeze Parkway",
+            "city": "Gulf Breeze",
+            "state": "FL",
+            "zip": "32563"
+        },
+        "website": "https://www.winndixie.com/storedetails/gulf breeze/fl?search=412",
+        "phone": "+1 850-932-0858",
+        "latitude": 30.3859158,
+        "longitude": -87.0853492
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "4478 Market Street",
+            "city": "Marianna",
+            "state": "FL",
+            "zip": "32446"
+        },
+        "website": "https://www.winndixie.com/storedetails/marianna/fl?search=555",
+        "phone": "+1 850-482-5303",
+        "latitude": 30.775074,
+        "longitude": -85.222935
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1151 Ross Clark Circle",
+            "city": "Dothan",
+            "state": "AL",
+            "zip": "36301"
+        },
+        "website": "https://www.winndixie.com/storedetails/dothan/al?search=457",
+        "phone": "+1 334-673-1604",
+        "latitude": 31.212803,
+        "longitude": -85.360198
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "5428 Dogwood Drive",
+            "city": "Milton",
+            "state": "FL",
+            "zip": "32570"
+        },
+        "website": "https://www.winndixie.com/storedetails/milton/fl?search=489",
+        "phone": "+1 850-626-9800",
+        "latitude": 30.631897,
+        "longitude": -87.054208
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "312 East Nine Mile Road",
+            "city": "Pensacola",
+            "state": "FL",
+            "zip": "32514"
+        },
+        "website": "https://www.winndixie.com/storedetails/pensacola/fl?search=506",
+        "phone": "+1 850-478-7488",
+        "latitude": 30.5342085,
+        "longitude": -87.260344
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "740 North Schillinger Road",
+            "city": "Mobile",
+            "state": "AL",
+            "zip": "36608"
+        },
+        "website": "https://www.winndixie.com/storedetails/mobile/al?search=549",
+        "phone": "+1 251-639-3130",
+        "latitude": 30.7060359,
+        "longitude": -88.2240244
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3260 Davie Boulevard",
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "zip": "33312"
+        },
+        "website": "https://www.winndixie.com/storedetails/ft%lauderdale/fl?search=330",
+        "phone": "+1 954-587-0624",
+        "latitude": 26.1036135,
+        "longitude": -80.1890802
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "10051 South US Highway 41",
+            "city": "Dunnellon",
+            "state": "FL",
+            "zip": "34432"
+        },
+        "website": "https://www.winndixie.com/storedetails/dunnellon/fl?search=2219",
+        "phone": "+1 352-465-4111",
+        "latitude": 29.0782644,
+        "longitude": -82.4508497
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "15912 East State Route 40",
+            "city": "Silver Springs",
+            "state": "FL",
+            "zip": "34488"
+        },
+        "website": "https://www.winndixie.com/storedetails/silver springs/fl?search=2206",
+        "phone": "+1 352-625-6253",
+        "latitude": 29.181562,
+        "longitude": -81.890362
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "11310 Southeast Highway 301",
+            "city": "Belleview",
+            "state": "FL",
+            "zip": "34420"
+        },
+        "website": "https://www.winndixie.com/storedetails/belleview/fl?search=2468",
+        "phone": "+1 352-245-7215",
+        "latitude": 29.056885,
+        "longitude": -82.050784
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "184 Marion Oaks Boulevard",
+            "city": "Ocala",
+            "state": "FL",
+            "zip": "34473"
+        },
+        "website": "https://www.winndixie.com/storedetails/ocala/fl?search=2229",
+        "phone": "+1 352-347-6990",
+        "latitude": 29.014351,
+        "longitude": -82.17968
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "333 Highland Boulevard Space 600",
+            "city": "Inverness",
+            "state": "FL",
+            "zip": "34452"
+        },
+        "website": "https://www.winndixie.com/storedetails/inverness/fl?search=2210",
+        "phone": "+1 352-726-4141",
+        "latitude": 28.830902,
+        "longitude": -82.327176
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3120 North Woodland Boulevard",
+            "city": "Deland",
+            "state": "FL",
+            "zip": "32720"
+        },
+        "website": "https://www.winndixie.com/storedetails/deland/fl?search=2342",
+        "phone": "+1 386-738-1272",
+        "latitude": 29.084586,
+        "longitude": -81.322973
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "7800 South Highway 17",
+            "city": "Fern Park",
+            "state": "FL",
+            "zip": "32730"
+        },
+        "website": "https://www.winndixie.com/storedetails/fern park/fl?search=2266",
+        "phone": "+1 407-339-1593",
+        "latitude": 28.652899,
+        "longitude": -81.350241
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1750 Sunshadow Drive",
+            "city": "Casselberry",
+            "state": "FL",
+            "zip": "32707"
+        },
+        "website": "https://www.winndixie.com/storedetails/casselberry/fl?search=2273",
+        "phone": "+1 407-696-9656",
+        "latitude": 28.696233,
+        "longitude": -81.322084
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1514 South French Avenue",
+            "city": "Sanford",
+            "state": "FL",
+            "zip": "32771"
+        },
+        "website": "https://www.winndixie.com/storedetails/sanford/fl?search=2306",
+        "phone": "+1 407-323-6664",
+        "latitude": 28.798046,
+        "longitude": -81.27497
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "120 International Parkway",
+            "city": "Lake Mary",
+            "state": "FL",
+            "zip": "32746"
+        },
+        "website": "https://www.winndixie.com/storedetails/lake mary/fl?search=2380",
+        "phone": "+1 407-333-9792",
+        "latitude": 28.757516,
+        "longitude": -81.369672
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "211 Wheelhouse Lane",
+            "city": "Lake Mary",
+            "state": "FL",
+            "zip": "32746"
+        },
+        "website": "https://www.winndixie.com/storedetails/lake mary/fl?search=2566",
+        "phone": "+1 407-547-3444",
+        "latitude": 28.755803,
+        "longitude": -81.335042
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3565 North Lecanto Highway",
+            "city": "Beverly Hills",
+            "state": "FL",
+            "zip": "34465"
+        },
+        "website": "https://www.winndixie.com/storedetails/beverly hills/fl?search=2220",
+        "phone": "+1 352-746-7080",
+        "latitude": 28.915311,
+        "longitude": -82.4695897
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1860 State Road 60 East",
+            "city": "Lake Wales",
+            "state": "FL",
+            "zip": "33853"
+        },
+        "website": "https://www.winndixie.com/storedetails/lake wales/fl?search=701",
+        "phone": "+1 863-676-1223",
+        "latitude": 27.8920959,
+        "longitude": -81.5582972
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "12120 Moon Lake Road",
+            "city": "New Port Richey",
+            "state": "FL",
+            "zip": "34654"
+        },
+        "website": "https://www.winndixie.com/storedetails/new port richey/fl?search=672",
+        "phone": "+1 727-856-3800",
+        "latitude": 28.332864,
+        "longitude": -82.601692
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2240 Commercial Way",
+            "city": "Spring Hill",
+            "state": "FL",
+            "zip": "34606"
+        },
+        "website": "https://www.winndixie.com/storedetails/spring hill/fl?search=711",
+        "phone": "+1 352-688-4800",
+        "latitude": 28.464608,
+        "longitude": -82.620015
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "11092 Spring Hill Drive",
+            "city": "Spring Hill",
+            "state": "FL",
+            "zip": "34608"
+        },
+        "website": "https://www.winndixie.com/storedetails/spring hill/fl?search=708",
+        "phone": "+1 352-686-8057",
+        "latitude": 28.459939,
+        "longitude": -82.540542
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "4221 Mariner Boulevard",
+            "city": "Spring Hill",
+            "state": "FL",
+            "zip": "34608"
+        },
+        "website": "https://www.winndixie.com/storedetails/spring hill/fl?search=2484",
+        "phone": "+1 352-688-1771",
+        "latitude": 28.493367,
+        "longitude": -82.542224
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1230 South Broad Street",
+            "city": "Brooksville",
+            "state": "FL",
+            "zip": "34601"
+        },
+        "website": "https://www.winndixie.com/storedetails/brooksville/fl?search=702",
+        "phone": "+1 352-799-2220",
+        "latitude": 28.542751,
+        "longitude": -82.404273
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "38901 County Road 54 East",
+            "city": "Zephyrhills",
+            "state": "FL",
+            "zip": "33540"
+        },
+        "website": "https://www.winndixie.com/storedetails/zephyrhills/fl?search=2487",
+        "phone": "+1 813-782-6465",
+        "latitude": 28.25325,
+        "longitude": -82.173159
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "15690 North Dale Mabry",
+            "city": "Tampa",
+            "state": "FL",
+            "zip": "33618"
+        },
+        "website": "https://www.winndixie.com/storedetails/tampa/fl?search=2414",
+        "phone": "+1 813-963-7883",
+        "latitude": 28.0950942,
+        "longitude": -82.5039279
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "250 Harbor Village Lane",
+            "city": "Apollo Beach",
+            "state": "FL",
+            "zip": "33572"
+        },
+        "website": "https://www.winndixie.com/storedetails/apollo beach/fl?search=2528",
+        "phone": "+1 813-645-9674",
+        "latitude": 27.751857,
+        "longitude": -82.4125
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "2900 Lakeland Highlands Road",
+            "city": "Lakeland",
+            "state": "FL",
+            "zip": "33803"
+        },
+        "website": "https://www.winndixie.com/storedetails/lakeland/fl?search=631",
+        "phone": "+1 863-666-3350",
+        "latitude": 28.00967,
+        "longitude": -81.922432
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "28047 Highway 27",
+            "city": "Dundee",
+            "state": "FL",
+            "zip": "33838"
+        },
+        "website": "https://www.winndixie.com/storedetails/dundee/fl?search=713",
+        "phone": "+1 863-439-6047",
+        "latitude": 28.016473,
+        "longitude": -81.630083
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1535 North Singleton Avenue",
+            "city": "Titusville",
+            "state": "FL",
+            "zip": "32796"
+        },
+        "website": "https://www.winndixie.com/storedetails/titusville/fl?search=2327",
+        "phone": "+1 321-267-6977",
+        "latitude": 28.6380878,
+        "longitude": -80.8447237
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "7960 Highway 1",
+            "city": "Micco",
+            "state": "FL",
+            "zip": "32976"
+        },
+        "website": "https://www.winndixie.com/storedetails/micco/fl?search=2368",
+        "phone": "+1 772-663-0551",
+        "latitude": 27.8828844,
+        "longitude": -80.5043779
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "3246 Highway 441 South",
+            "city": "Okeechobee",
+            "state": "FL",
+            "zip": "34974"
+        },
+        "website": "https://www.winndixie.com/storedetails/okeechobee/fl?search=331",
+        "phone": "+1 863-763-8354",
+        "latitude": 27.213429,
+        "longitude": -80.828356
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "8924 North Military Trail",
+            "city": "Palm Beach Gardens",
+            "state": "FL",
+            "zip": "33410"
+        },
+        "website": "https://www.winndixie.com/storedetails/palm beach gardens/fl?search=333",
+        "phone": "+1 561-622-0143",
+        "latitude": 26.806742,
+        "longitude": -80.104857
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "1135 Royal Palm Beach Boulevard",
+            "city": "Royal Palm Beach",
+            "state": "FL",
+            "zip": "33411"
+        },
+        "website": "https://www.winndixie.com/storedetails/royal palm beach/fl?search=212",
+        "phone": "+1 561-793-0422",
+        "latitude": 26.707613,
+        "longitude": -80.231675
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "node",
+        "address": {
+            "streetAddress": "8855 Boynton Beach Boulevard",
+            "city": "Boynton Beach",
+            "state": "FL",
+            "zip": "33472"
+        },
+        "website": "https://www.winndixie.com/storedetails/boynton beach/fl?search=2558",
+        "phone": "+1 561-536-2170",
+        "latitude": 26.5291386,
+        "longitude": -80.1860878
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "111 Flagler Plaza Drive",
+            "city": "Palm Coast",
+            "state": "FL",
+            "zip": "32137"
+        },
+        "website": "https://www.winndixie.com/storedetails/palm%20coast/fl?search=2244",
+        "phone": "+1 386-439-4301",
+        "latitude": 29.4742705,
+        "longitude": -81.1795336
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "6929 US Highway 301",
+            "city": "Riverview",
+            "state": "FL",
+            "zip": "33569"
+        },
+        "website": "https://www.winndixie.com/storedetails/riverview/fl?search=2475",
+        "phone": "+1 813-672-8455",
+        "latitude": 27.8804145,
+        "longitude": -82.3284424
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "470 West Madison Street",
+            "city": "Starke",
+            "state": "FL",
+            "zip": "32091"
+        },
+        "website": "https://www.winndixie.com/storedetails/starke/fl?search=85",
+        "phone": "+1 904-964-8673",
+        "latitude": 29.9434187,
+        "longitude": -82.1142274
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "111 South Magnolia Drive",
+            "city": "Tallahassee",
+            "state": "FL",
+            "zip": "32301"
+        },
+        "website": "https://www.winndixie.com/storedetails/tallahassee/fl?search=86",
+        "phone": "+1 850-656-2219",
+        "latitude": 30.4410145,
+        "longitude": -84.2598951
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "2533 Thomas Drive",
+            "city": "Panama City Beach",
+            "state": "FL",
+            "zip": "32408"
+        },
+        "website": "https://www.winndixie.com/storedetails/panama%20city/fl?search=552",
+        "phone": "+1 850-234-1200",
+        "latitude": 30.158299,
+        "longitude": -85.7511565
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1019 South Federal Highway",
+            "city": "Deerfield Beach",
+            "state": "FL",
+            "zip": "33441"
+        },
+        "website": "https://www.winndixie.com/storedetails/deerfield%20beach/fl?search=345",
+        "phone": "+1 954-426-4404",
+        "latitude": 26.3038325,
+        "longitude": -80.0950208
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "3327 33rd Avenue North",
+            "city": "Saint Petersburg",
+            "state": "FL",
+            "zip": "33704"
+        },
+        "website": "https://www.winndixie.com/storedetails/saint%20petersburg/fl?search=2443",
+        "phone": "+1 727-823-3538",
+        "latitude": 27.8025183,
+        "longitude": -82.6455965
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "12975 Park Boulevard",
+            "city": "Seminole",
+            "state": "FL",
+            "zip": "33776"
+        },
+        "website": "https://www.winndixie.com/storedetails/seminole/fl?search=607",
+        "phone": "+1 727-319-3840",
+        "latitude": 27.845113,
+        "longitude": -82.8181663
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "7946 Vaughn Road",
+            "city": "Montgomery",
+            "state": "AL",
+            "zip": "36116"
+        },
+        "website": "https://www.winndixie.com/storedetails/montgomery/al?search=448",
+        "phone": "+1 334-272-5979",
+        "latitude": 32.3372152,
+        "longitude": -86.1772107
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "2460 East Bay Drive",
+            "city": "Largo",
+            "state": "FL",
+            "zip": "33771"
+        },
+        "website": "https://www.winndixie.com/storedetails/largo/fl?search=2552",
+        "phone": "+1 727-507-7980",
+        "latitude": 27.9182682,
+        "longitude": -82.7616529
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "5440 Highway 90 West",
+            "city": "Mobile",
+            "state": "AL",
+            "zip": "36619"
+        },
+        "website": "https://www.winndixie.com/storedetails/mobile/al?search=572",
+        "phone": "+1 251-602-1818",
+        "latitude": 30.586916,
+        "longitude": -88.1713738
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "3905 A1A South",
+            "city": "Saint Augustine",
+            "state": "FL",
+            "zip": "32080"
+        },
+        "website": "https://www.winndixie.com/storedetails/st%20augustine/fl?search=129",
+        "phone": "+1 904-471-5115",
+        "latitude": 29.8244216,
+        "longitude": -81.2721712
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "132 South Tyndall Parkway",
+            "city": "Parker",
+            "state": "FL",
+            "zip": "32404"
+        },
+        "website": "https://www.winndixie.com/storedetails/parker/fl?search=538",
+        "phone": "+1 850-913-0086",
+        "latitude": 30.1443659,
+        "longitude": -85.5927784
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1408 Golden Springs Road",
+            "city": "Anniston",
+            "state": "AL",
+            "zip": "36207"
+        },
+        "website": "https://www.winndixie.com/storedetails/anniston/al?search=447",
+        "phone": "+1 256-831-8801",
+        "latitude": 33.6279215,
+        "longitude": -85.7875737
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "3800 North Ocean Boulevard",
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "zip": "33308"
+        },
+        "website": "https://www.winndixie.com/storedetails/ft%20lauderdale/fl?search=386",
+        "phone": "+1 954-563-4110",
+        "latitude": 26.174614,
+        "longitude": -80.0990323
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "6770 Veterans Parkway",
+            "city": "Columbus",
+            "state": "GA",
+            "zip": "31909"
+        },
+        "website": "https://www.winndixie.com/storedetails/columbus/ga?search=439",
+        "phone": "+1 706-653-0574",
+        "latitude": 32.5426846,
+        "longitude": -84.9514319
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "10368 Seminole Boulevard",
+            "city": "Seminole",
+            "state": "FL",
+            "zip": "33772"
+        },
+        "website": "https://www.winndixie.com/storedetails/seminole/fl?search=2512",
+        "phone": "+1 727-392-8211",
+        "latitude": 27.8666323,
+        "longitude": -82.7884662
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1016 Cape Coral Parkway",
+            "city": "Cape Coral",
+            "state": "FL",
+            "zip": "33904"
+        },
+        "website": "https://www.winndixie.com/storedetails/cape%20coral/fl?search=2534",
+        "phone": "+1 239-542-6464",
+        "latitude": 26.5612024,
+        "longitude": -81.9517092
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "4870 North Kings Highway",
+            "city": "Fort Pierce",
+            "state": "FL",
+            "zip": "34951"
+        },
+        "website": "https://www.winndixie.com/storedetails/fort%20pierce/fl?search=2349",
+        "phone": "+1 772-464-9341",
+        "latitude": 27.5222807,
+        "longitude": -80.3963775
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": " Southwest 104th Street",
+            "city": "Miami",
+            "state": "",
+            "zip": "33186"
+        },
+        "website": "https://www.winndixie.com/",
+        "phone": "",
+        "latitude": 25.6722662,
+        "longitude": -80.4312427
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "6851 Gulfport Boulevard",
+            "city": "South Pasadena",
+            "state": "FL",
+            "zip": "33707"
+        },
+        "website": "https://www.winndixie.com/storedetails/south%20pasadena/fl?search=2411",
+        "phone": "+1 727-344-5491",
+        "latitude": 27.7593567,
+        "longitude": -82.7336906
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "12333 Sago Avenue West",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32218"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=12",
+        "phone": "+1 904-757-8982",
+        "latitude": 30.4608936,
+        "longitude": -81.6319881
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "105300 Overseas Highway",
+            "city": "Key Largo",
+            "state": "FL",
+            "zip": "33037"
+        },
+        "website": "https://www.winndixie.com/storedetails/key%20largo/fl?search=352",
+        "phone": "+1 305-451-0328",
+        "latitude": 25.160523,
+        "longitude": -80.38465
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "3275 Southwest 22nd Street",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33145"
+        },
+        "website": "https://www.winndixie.com/storedetails/miami/fl?search=251",
+        "phone": "+1 305-460-9596",
+        "latitude": 25.7510013,
+        "longitude": -80.2477756
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "6600 North Socrum Loop Road",
+            "city": "Lakeland",
+            "state": "FL",
+            "zip": "33809"
+        },
+        "website": "https://www.winndixie.com/storedetails/lakeland/fl?search=664",
+        "phone": "+1 863-859-4611",
+        "latitude": 28.127516,
+        "longitude": -81.9481704
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "625 North Collier Boulevard",
+            "city": "Marco Island",
+            "state": "FL",
+            "zip": "34145"
+        },
+        "website": "https://www.winndixie.com/storedetails/marco%20island/fl?search=729",
+        "phone": "+1 239-642-9126",
+        "latitude": 25.9518031,
+        "longitude": -81.7292963
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "50 South Blue Angel Parkway",
+            "city": "Pensacola",
+            "state": "FL",
+            "zip": "32506"
+        },
+        "website": "https://www.winndixie.com/storedetails/pensacola/fl?search=535",
+        "phone": "+1 850-457-1395",
+        "latitude": 30.4019342,
+        "longitude": -87.3402938
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "401 North Carrollton Avenue",
+            "city": "New Orleans",
+            "state": "LA",
+            "zip": "70119"
+        },
+        "website": "https://www.winndixie.com/storedetails/new orleans/la?search=1472",
+        "phone": "+1 504-482-6771",
+        "latitude": 29.9782717,
+        "longitude": -90.0993416
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "5400 Tchoupitoulas Street",
+            "city": "New Orleans",
+            "state": "LA",
+            "zip": "70115"
+        },
+        "website": "https://www.winndixie.com/storedetails/new%20orleans/la?search=1430",
+        "phone": "+1 504-895-2966",
+        "latitude": 29.9160545,
+        "longitude": -90.1168613
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1617 South College Street",
+            "city": "Auburn",
+            "state": "AL",
+            "zip": "36832"
+        },
+        "website": "https://www.winndixie.com/storedetails/auburn/al?search=579",
+        "phone": "+1 334-826-2220",
+        "latitude": 32.5763884,
+        "longitude": -85.496418
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1632 West Jefferson Street",
+            "city": "Quincy",
+            "state": "FL",
+            "zip": "32351"
+        },
+        "website": "https://www.winndixie.com/storedetails/quincy/fl?search=184",
+        "phone": "+1 850-627-1134",
+        "latitude": 30.5870084,
+        "longitude": -84.5976509
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1737 East Hickory Street",
+            "city": "Arcadia",
+            "state": "FL",
+            "zip": "34266"
+        },
+        "website": "https://www.winndixie.com/storedetails/arcadia/fl?search=2491",
+        "phone": "+1 863-993-3293",
+        "latitude": 27.2099485,
+        "longitude": -81.8379302
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "2629 Crawfordville Highway",
+            "city": "Crawfordville",
+            "state": "FL",
+            "zip": "32327"
+        },
+        "website": "https://www.winndixie.com/storedetails/crawfordville/fl?search=186",
+        "phone": "+1 850-926-2204",
+        "latitude": 30.1923004,
+        "longitude": -84.3702497
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "6300 Grelot Road",
+            "city": "Mobile",
+            "state": "AL",
+            "zip": "36609"
+        },
+        "website": "https://www.winndixie.com/storedetails/mobile/al?search=590",
+        "phone": "+1 251-633-4930",
+        "latitude": 30.6625127,
+        "longitude": -88.1888759
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "2139 34th Street North",
+            "city": "Saint Petersburg",
+            "state": "FL",
+            "zip": "33713"
+        },
+        "website": "https://www.winndixie.com/storedetails/saint%20petersburg/fl?search=2409",
+        "phone": "+1 727-323-2900",
+        "latitude": 27.7905194,
+        "longitude": -82.6779717
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "99 Eglin Parkway Northeast",
+            "city": "Fort Walton Beach",
+            "state": "FL",
+            "zip": "32548"
+        },
+        "website": "https://www.winndixie.com/storedetails/fort%20walton%20beach/fl?search=566",
+        "phone": "+1 850-244-4261",
+        "latitude": 30.4192628,
+        "longitude": -86.6082548
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "3925 Crosshaven Drive",
+            "city": "Birmingham",
+            "state": "AL",
+            "zip": "35243"
+        },
+        "website": "https://www.winndixie.com/storedetails/vestavia%20hills/al?search=517",
+        "phone": "+1 205-969-2307",
+        "latitude": 33.4630084,
+        "longitude": -86.730101
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "7135 North 9th Avenue",
+            "city": "Pensacola",
+            "state": "FL",
+            "zip": "32504"
+        },
+        "website": "https://www.winndixie.com/storedetails/pensacola/fl?search=504",
+        "phone": "+1 850-476-0494",
+        "latitude": 30.4980939,
+        "longitude": -87.1893455
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "5827 Highway 90 West",
+            "city": "Theodore",
+            "state": "AL",
+            "zip": "36582"
+        },
+        "website": "https://www.winndixie.com/storedetails/theodore/al?search=580",
+        "phone": "+1 251-653-5690",
+        "latitude": 30.5538534,
+        "longitude": -88.1699603
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "4476 Montevallo Road",
+            "city": "Birmingham",
+            "state": "AL",
+            "zip": "35213"
+        },
+        "website": "https://www.winndixie.com/storedetails/birmingham/al?search=435",
+        "phone": "+1 205-951-6768",
+        "latitude": 33.5204494,
+        "longitude": -86.7286637
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1721 Decatur Highway",
+            "city": "Fultondale",
+            "state": "AL",
+            "zip": "35068"
+        },
+        "website": "https://www.winndixie.com/storedetails/fultondale/al?search=458",
+        "phone": "+1 205-841-2420",
+        "latitude": 33.6125243,
+        "longitude": -86.7953049
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "500 Inverness Corners",
+            "city": "Birmingham",
+            "state": "AL",
+            "zip": "35242"
+        },
+        "website": "https://www.winndixie.com/storedetails/birmingham/al?search=445",
+        "phone": "+1 205-991-0230",
+        "latitude": 33.4173085,
+        "longitude": -86.6945429
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "4751 Bayou Boulevard",
+            "city": "Pensacola",
+            "state": "FL",
+            "zip": "32503"
+        },
+        "website": "https://www.winndixie.com/storedetails/pensacola/fl?search=556",
+        "phone": "+1 850-479-9186",
+        "latitude": 30.4695614,
+        "longitude": -87.2095144
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "36348 State Road 54",
+            "city": "Zephyrhills",
+            "state": "FL",
+            "zip": "33541"
+        },
+        "website": "https://www.winndixie.com/storedetails/zephyrhills/fl?search=683",
+        "phone": "+1 813-788-3322",
+        "latitude": 28.2287227,
+        "longitude": -82.2146342
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1505 US 27 South",
+            "city": "Lake Placid",
+            "state": "FL",
+            "zip": "33852"
+        },
+        "website": "https://www.winndixie.com/storedetails/lake%20placid/fl?search=2548",
+        "phone": "+1 863-465-0416",
+        "latitude": 27.2663126,
+        "longitude": -81.3455861
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "981 US Highway 98",
+            "city": "Destin",
+            "state": "FL",
+            "zip": "32541"
+        },
+        "website": "https://www.winndixie.com/storedetails/destin/fl?search=560",
+        "phone": "+1 850-654-5353",
+        "latitude": 30.3901077,
+        "longitude": -86.4775859
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "727 WestNoble Avenue",
+            "city": "Williston",
+            "state": "FL",
+            "zip": "32696"
+        },
+        "website": "https://www.winndixie.com/storedetails/williston/fl?search=171",
+        "phone": "+1 352-528-5551",
+        "latitude": 29.3856804,
+        "longitude": -82.4583897
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "2302 West Thomas Street",
+            "city": "Hammond",
+            "state": "LA",
+            "zip": "70401"
+        },
+        "website": "https://www.winndixie.com/storedetails/hammond/la?search=1537",
+        "phone": "+1 985-542-8901",
+        "latitude": 30.5023892,
+        "longitude": -90.486795
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "580 South Marion Avenue",
+            "city": "Lake City",
+            "state": "FL",
+            "zip": "32025"
+        },
+        "website": "https://www.winndixie.com/storedetails/lake%20city/fl?search=81",
+        "phone": "+1 386-755-4404",
+        "latitude": 30.1824444,
+        "longitude": -82.6382556
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "23200 Front Beach Road",
+            "city": "Panama City Beach",
+            "state": "FL",
+            "zip": "32413"
+        },
+        "website": "https://www.winndixie.com/storedetails/panama%20city%20beach/fl?search=488",
+        "phone": "+1 850-234-2001",
+        "latitude": 30.2631364,
+        "longitude": -85.9732284
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1155 Northwest 11th Street",
+            "city": "Miami",
+            "state": "FL",
+            "zip": "33136"
+        },
+        "website": "https://www.winndixie.com/storedetails/miami/fl?search=247",
+        "phone": "+1 305-545-0127",
+        "latitude": 25.7851608,
+        "longitude": -80.2130776
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "4100 Highway 59",
+            "city": "Mandeville",
+            "state": "LA",
+            "zip": "70471"
+        },
+        "website": "https://www.winndixie.com/storedetails/mandeville/la?search=1500",
+        "phone": "+1 985-893-1968",
+        "latitude": 30.4109004,
+        "longitude": -90.0431748
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "17101 Miramar Parkway",
+            "city": "Miramar",
+            "state": "FL",
+            "zip": "33027"
+        },
+        "website": "https://www.winndixie.com/storedetails/miramar/fl?search=250",
+        "phone": "+1 954-704-1884",
+        "latitude": 25.9807702,
+        "longitude": -80.3747106
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "5600 West Sample Road",
+            "city": "Margate",
+            "state": "FL",
+            "zip": "33073"
+        },
+        "website": "https://www.winndixie.com/storedetails/margate/fl?search=349",
+        "phone": "+1 954-977-0902",
+        "latitude": 26.2714751,
+        "longitude": -80.1999689
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "13200 East Colonial Drive",
+            "city": "Orlando",
+            "state": "FL",
+            "zip": "32826"
+        },
+        "website": "https://www.winndixie.com/storedetails/orlando/fl?search=2269",
+        "phone": "+1 407-380-5445",
+        "latitude": 28.5634527,
+        "longitude": -81.1836596
+    },
+    {
+        "name": "Winn Dixie Shopping Center",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "3625 Highway 14",
+            "city": "Millbrook",
+            "state": "AL",
+            "zip": "36054"
+        },
+        "website": "https://www.winndixie.com/storedetails/millbrook/al?search=451",
+        "phone": "+1 334-285-7997",
+        "latitude": 32.5175984,
+        "longitude": -86.3771747
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "995 Sebastian Boulevard",
+            "city": "Sebastian",
+            "state": "FL",
+            "zip": "32958"
+        },
+        "website": "https://www.winndixie.com/storedetails/sebastian/fl?search=2354",
+        "phone": "+1 772-388-4866",
+        "latitude": 27.7792615,
+        "longitude": -80.4953391
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "340 South State Route 434",
+            "city": "Altamonte Springs",
+            "state": "FL",
+            "zip": "32714"
+        },
+        "website": "https://www.winndixie.com/storedetails/altamonte%20springs/fl?search=2388",
+        "phone": "+1 407-682-1703",
+        "latitude": 28.6575237,
+        "longitude": -81.4225934
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1835 State Road 44",
+            "city": "New Smyrna Beach",
+            "state": "FL",
+            "zip": "32168"
+        },
+        "website": "https://www.winndixie.com/storedetails/new%20smyrna%20beach/fl?search=2304",
+        "phone": "+1 386-423-3111",
+        "latitude": 29.0161995,
+        "longitude": -80.9440195
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "4240 Bee Ridge Road",
+            "city": "Sarasota",
+            "state": "FL",
+            "zip": "34233"
+        },
+        "website": "https://www.winndixie.com/storedetails/sarasota/fl?search=2502",
+        "phone": "+1 941-377-4047",
+        "latitude": 27.2977961,
+        "longitude": -82.483558
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "18731 Three Oaks Parkway",
+            "city": "Fort Myers",
+            "state": "FL",
+            "zip": "33967"
+        },
+        "website": "https://www.winndixie.com/",
+        "phone": "+1 239-267-0333",
+        "latitude": 26.4696035,
+        "longitude": -81.7916159
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "300 Southwest 16th Avenue",
+            "city": "Gainesville",
+            "state": "FL",
+            "zip": "32601"
+        },
+        "website": "https://www.winndixie.com/storedetails/gainesville/fl?search=150",
+        "phone": "+1 352-379-0023",
+        "latitude": 29.6374416,
+        "longitude": -82.3290808
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "8775 Temple Terrace Highway",
+            "city": "Tampa",
+            "state": "FL",
+            "zip": "33637"
+        },
+        "website": "https://www.winndixie.com/storedetails/tampa/fl?search=2423",
+        "phone": "+1 813-985-4439",
+        "latitude": 28.0309397,
+        "longitude": -82.3542741
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1360 Tampa Street",
+            "city": "Palm Harbor",
+            "state": "FL",
+            "zip": "34683"
+        },
+        "website": "https://www.winndixie.com/storedetails/palm%20harbor/fl?search=2425",
+        "phone": "+1 727-787-3599",
+        "latitude": 28.0669651,
+        "longitude": -82.7627011
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "8740 Park Boulevard",
+            "city": "Seminole",
+            "state": "FL",
+            "zip": "33777"
+        },
+        "website": "https://www.winndixie.com/storedetails/seminole/fl?search=606",
+        "phone": "+1 727-393-6900",
+        "latitude": 27.8379135,
+        "longitude": -82.7600477
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "7550 Mission Hills Drive",
+            "city": "Naples",
+            "state": "FL",
+            "zip": "34119"
+        },
+        "website": "https://www.winndixie.com/storedetails/naples/fl?search=2515",
+        "phone": "+1 239-304-3340",
+        "latitude": 26.2459623,
+        "longitude": -81.6904902
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "9082 Moffett Road",
+            "city": "Semmes",
+            "state": "AL",
+            "zip": "36575"
+        },
+        "website": "https://www.winndixie.com/storedetails/semmes/al?search=473",
+        "phone": "+1 251-649-1646",
+        "latitude": 30.7801308,
+        "longitude": -88.2571161
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "3001 US-90",
+            "city": "Avondale",
+            "state": "LA",
+            "zip": "70094"
+        },
+        "website": "",
+        "phone": "",
+        "latitude": 29.9089013,
+        "longitude": -90.2056501
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "284 Hyde Park Commons",
+            "city": "Brunswick",
+            "state": "GA",
+            "zip": "31523"
+        },
+        "website": "https://www.winndixie.com/storedetails/brunswick/ga?search=68",
+        "phone": "+1 912-267-1759",
+        "latitude": 31.1410461,
+        "longitude": -81.5874249
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "12125 Highway 90",
+            "city": "Luling",
+            "state": "LA",
+            "zip": "70070"
+        },
+        "website": "https://www.winndixie.com/storedetails/luling/la?search=1444",
+        "phone": "+1 985-785-0610",
+        "latitude": 29.9126415,
+        "longitude": -90.3432002
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1955 North Sr 19",
+            "city": "Eustis",
+            "state": "FL",
+            "zip": "32726"
+        },
+        "website": "https://www.winndixie.com/storedetails/eustis/fl?search=2335",
+        "phone": "+1 352-589-2644",
+        "latitude": 28.8742322,
+        "longitude": -81.6856131
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "6600 Hypoluxo Road",
+            "city": "Lake Worth",
+            "state": "FL",
+            "zip": "33467"
+        },
+        "website": "https://www.winndixie.com/storedetails/lake%20worth/fl?search=397",
+        "phone": "+1 561-966-2177",
+        "latitude": 26.5713353,
+        "longitude": -80.1483555
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "2202 North Young Boulevard",
+            "city": "Chiefland",
+            "state": "FL",
+            "zip": "32626"
+        },
+        "website": "https://www.winndixie.com/storedetails/chiefland/fl?search=148",
+        "phone": "+1 352-493-0839",
+        "latitude": 29.5010146,
+        "longitude": -82.8721817
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "9948 Airport Boulevard",
+            "city": "Mobile",
+            "state": "AL",
+            "zip": "36608"
+        },
+        "website": "https://www.winndixie.com/storedetails/mobile/al?search=591",
+        "phone": "+1 251-639-1993",
+        "latitude": 30.6724699,
+        "longitude": -88.2774837
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "2880 Howland Boulevard",
+            "city": "Deltona",
+            "state": "FL",
+            "zip": "32725"
+        },
+        "website": "https://www.winndixie.com/storedetails/deltona/fl?search=2313",
+        "phone": "+1 386-532-7168",
+        "latitude": 28.9450005,
+        "longitude": -81.2246011
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "2 North Charles R. Beall Boulevard",
+            "city": "Debary",
+            "state": "FL",
+            "zip": "32713"
+        },
+        "website": "https://www.winndixie.com/storedetails/debary/fl?search=2237",
+        "phone": "+1 386-668-8528",
+        "latitude": 28.8907684,
+        "longitude": -81.3078673
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "2950 9th Street Southwest",
+            "city": "Vero Beach",
+            "state": "FL",
+            "zip": "32968"
+        },
+        "website": "https://www.winndixie.com/storedetails/vero%20beach/fl?search=2366",
+        "phone": "+1 772-562-4303",
+        "latitude": 27.5885583,
+        "longitude": -80.4166392
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "4205 University Boulevard East",
+            "city": "Tuscaloosa",
+            "state": "AL",
+            "zip": "35404"
+        },
+        "website": "https://www.winndixie.com/storedetails/tuscaloosa/al?search=407",
+        "phone": "+1 205-553-3360",
+        "latitude": 33.1976773,
+        "longitude": -87.4818503
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1055 West Hallandale Beach Boulevard",
+            "city": "Hallandale",
+            "state": "FL",
+            "zip": "33009"
+        },
+        "website": "https://www.winndixie.com/storedetails/hallandale/fl?search=203",
+        "phone": "+1 954-457-7380",
+        "latitude": 25.9835239,
+        "longitude": -80.1636868
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "17184 Front Beach Road",
+            "city": "Panama City Beach",
+            "state": "FL",
+            "zip": "32413"
+        },
+        "website": "https://www.winndixie.com/storedetails/panama%20city%20beach/fl?search=494",
+        "phone": "+1 850-234-2289",
+        "latitude": 30.225065,
+        "longitude": -85.8920018
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "2104 Williams Boulevard",
+            "city": "Kenner",
+            "state": "LA",
+            "zip": "70062"
+        },
+        "website": "https://www.winndixie.com/storedetails/kenner/la?search=1412",
+        "phone": "+1 504-469-0861",
+        "latitude": 29.9947948,
+        "longitude": -90.2399527
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "17649 Gunn Highway",
+            "city": "Odessa",
+            "state": "FL",
+            "zip": "33556"
+        },
+        "website": "https://www.winndixie.com/storedetails/odessa/fl?search=2507",
+        "phone": "+1 813-920-7626",
+        "latitude": 28.1272296,
+        "longitude": -82.5741079
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "16751 Lithia Pinecrest Road",
+            "city": "Lithia",
+            "state": "FL",
+            "zip": "33547"
+        },
+        "website": "https://www.winndixie.com/storedetails/lithia/fl?search=2499",
+        "phone": "+1 813-643-5564",
+        "latitude": 27.8610567,
+        "longitude": -82.2007037
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "11230 M Luther King Boulevard",
+            "city": "Seffner",
+            "state": "FL",
+            "zip": "33584"
+        },
+        "website": "https://www.winndixie.com/storedetails/seffner/fl?search=2495",
+        "phone": "+1 813-684-4949",
+        "latitude": 27.983013,
+        "longitude": -82.3086045
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "798 Beal Parkway Northwest",
+            "city": "Fort Walton Beach",
+            "state": "FL",
+            "zip": "32547"
+        },
+        "website": "https://www.winndixie.com/storedetails/ft%20walton%20beach/fl?search=541",
+        "phone": "+1 850-864-3891",
+        "latitude": 30.4475591,
+        "longitude": -86.6401608
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "11700 San Jose Boulevard",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32223"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=2556",
+        "phone": "+1 904-300-0455",
+        "latitude": 30.1599821,
+        "longitude": -81.6339942
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "5901 Airline Drive",
+            "city": "Metairie",
+            "state": "LA",
+            "zip": "70003"
+        },
+        "website": "https://www.winndixie.com/storedetails/metairie/la?search=1411",
+        "phone": "+1 504-734-0702",
+        "latitude": 29.9780692,
+        "longitude": -90.1973196
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "5585 Overseas Highway",
+            "city": "Marathon",
+            "state": "FL",
+            "zip": "33050"
+        },
+        "website": "https://www.winndixie.com/storedetails/marathon/fl?search=267",
+        "phone": "+1 305-743-3636",
+        "latitude": 24.7155715,
+        "longitude": -81.0734122
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "12519 Airline Highway",
+            "city": "Destrehan",
+            "state": "LA",
+            "zip": "70047"
+        },
+        "website": "https://www.winndixie.com/storedetails/destrehan/la?search=1588",
+        "phone": "+1 985-764-3196",
+        "latitude": 29.9859767,
+        "longitude": -90.3622918
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "12649 US-301",
+            "city": "Dade City",
+            "state": "FL",
+            "zip": "33525"
+        },
+        "website": "https://www.winndixie.com/storedetails/dade%20city/fl?search=608",
+        "phone": "+1 352-523-2929",
+        "latitude": 28.3421522,
+        "longitude": -82.1892128
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "680 North Federal Highway",
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "zip": "33304"
+        },
+        "website": "https://www.winndixie.com/storedetails/fort%20lauderdale/fl?search=290",
+        "phone": "+1 954-764-2454",
+        "latitude": 26.1313676,
+        "longitude": -80.1364729
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "3212 State Road 21",
+            "city": "Melrose",
+            "state": "FL",
+            "zip": "32666"
+        },
+        "website": "https://www.winndixie.com/storedetails/melrose/fl?search=1654",
+        "phone": "+1 352-475-1115",
+        "latitude": 29.7630555,
+        "longitude": -82.0561938
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "750 Martin Luther King West",
+            "city": "Seffner",
+            "state": "FL",
+            "zip": "33584"
+        },
+        "website": "https://www.winndixie.com/storedetails/seffner/fl?search=2454",
+        "phone": "+1 813-685-3843",
+        "latitude": 27.9795844,
+        "longitude": -82.2880419
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "3280 Tamiami Trail",
+            "city": "Port Charlotte",
+            "state": "FL",
+            "zip": "33952"
+        },
+        "website": "https://www.winndixie.com/storedetails/port%20charlotte/fl?search=736",
+        "phone": "+1 941-625-2151",
+        "latitude": 26.9839221,
+        "longitude": -82.0980064
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "4445 Sun City Cntr Boulevard",
+            "city": "Sun City Center",
+            "state": "FL",
+            "zip": "33573"
+        },
+        "website": "https://www.winndixie.com/storedetails/sun%20city%20center/fl?search=619",
+        "phone": "+1 813-634-1191",
+        "latitude": 27.7107109,
+        "longitude": -82.3544148
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "5647 Roosevelt Boulevard",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32244"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=123",
+        "phone": "+1 904-384-0711",
+        "latitude": 30.2452987,
+        "longitude": -81.6958919
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "70431 Highway 21",
+            "city": "Covington",
+            "state": "LA",
+            "zip": "70433"
+        },
+        "website": "https://www.winndixie.com/storedetails/covington/la?search=1443",
+        "phone": "+1 985-871-1179",
+        "latitude": 30.4537734,
+        "longitude": -90.1376251
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "13620 Highway 43 North",
+            "city": "Northport",
+            "state": "AL",
+            "zip": "35475"
+        },
+        "website": "https://www.winndixie.com/storedetails/northport/al?search=526",
+        "phone": "+1 205-333-0321",
+        "latitude": 33.3062423,
+        "longitude": -87.6030203
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "8601 Jefferson Highway",
+            "city": "River Ridge",
+            "state": "LA",
+            "zip": "70123"
+        },
+        "website": "https://www.winndixie.com/storedetails/river%20ridge/la?search=1404",
+        "phone": "+1 504-738-2682",
+        "latitude": 29.9434355,
+        "longitude": -90.2119476
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "9101 Little Road",
+            "city": "New Port Richey",
+            "state": "FL",
+            "zip": "34654"
+        },
+        "website": "https://www.winndixie.com/storedetails/new%20port%20richey/fl?search=2459",
+        "phone": "+1 727-868-9228",
+        "latitude": 28.2894398,
+        "longitude": -82.6772821
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "6400 Massachusetts Avenue",
+            "city": "New Port Richey",
+            "state": "FL",
+            "zip": "34653"
+        },
+        "website": "https://www.winndixie.com/storedetails/new%20port%20richey/fl?search=2429",
+        "phone": "+1 727-841-7381",
+        "latitude": 28.2574029,
+        "longitude": -82.7088197
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "2910 Morgan Road",
+            "city": "Bessemer",
+            "state": "AL",
+            "zip": "35022"
+        },
+        "website": "https://www.winndixie.com/storedetails/bessemer/al?search=595",
+        "phone": "+1 205-425-2121",
+        "latitude": 33.3354164,
+        "longitude": -86.9191256
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "701 East Main Street",
+            "city": "Prattville",
+            "state": "AL",
+            "zip": "36067"
+        },
+        "website": "https://www.winndixie.com/storedetails/prattville/al?search=527",
+        "phone": "+1 334-365-7015",
+        "latitude": 32.4621306,
+        "longitude": -86.4553854
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1202 West Main Street",
+            "city": "Inverness",
+            "state": "FL",
+            "zip": "34450"
+        },
+        "website": "https://www.winndixie.com/storedetails/inverness/fl?search=2445",
+        "phone": "+1 352-726-8143",
+        "latitude": 28.837539,
+        "longitude": -82.3451932
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "345 Havendale Boulevard",
+            "city": "Auburndale",
+            "state": "FL",
+            "zip": "33823"
+        },
+        "website": "https://www.winndixie.com/storedetails/auburndale/fl?search=612",
+        "phone": "+1 863-967-6100",
+        "latitude": 28.0563268,
+        "longitude": -81.7767031
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "14134 US 19",
+            "city": "Hudson",
+            "state": "FL",
+            "zip": "34667"
+        },
+        "website": "https://www.winndixie.com/storedetails/hudson/fl?search=710",
+        "phone": "+1 727-863-9298",
+        "latitude": 28.3623819,
+        "longitude": -82.692624
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "515 7th Street West",
+            "city": "Palmetto",
+            "state": "FL",
+            "zip": "34220"
+        },
+        "website": "https://www.winndixie.com/storedetails/palmetto/fl?search=2448",
+        "phone": "+1 941-722-1954",
+        "latitude": 27.5163775,
+        "longitude": -82.570075
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "450 East Burleigh Boulevard",
+            "city": "Tavares",
+            "state": "FL",
+            "zip": "32778"
+        },
+        "website": "https://www.winndixie.com/storedetails/tavares/fl?search=2261",
+        "phone": "+1 352-343-2002",
+        "latitude": 28.8169476,
+        "longitude": -81.7234327
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1550 South Highway 29",
+            "city": "Cantonment",
+            "state": "FL",
+            "zip": "32533"
+        },
+        "website": "https://www.winndixie.com/storedetails/cantonment/fl?search=498",
+        "phone": "+1 850-968-3388",
+        "latitude": 30.5806641,
+        "longitude": -87.2958966
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "353 West Granada Boulevard",
+            "city": "Ormond Beach",
+            "state": "FL",
+            "zip": "32174"
+        },
+        "website": "https://www.winndixie.com/storedetails/ormond%20beach/fl?search=2309",
+        "phone": "+1 386-677-4070",
+        "latitude": 29.2823698,
+        "longitude": -81.0686689
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "4967 South US 1",
+            "city": "Fort Pierce",
+            "state": "FL",
+            "zip": "34982"
+        },
+        "website": "https://www.winndixie.com/storedetails/fort%20pierce/fl?search=2355",
+        "phone": "+1 772-466-5308",
+        "latitude": 27.3750825,
+        "longitude": -80.3285865
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "281 Southwest Port Saint Lucie Boulevard",
+            "city": "Port Saint Lucie",
+            "state": "FL",
+            "zip": "34984"
+        },
+        "website": "https://www.winndixie.com/storedetails/port%20saint%20lucie/fl?search=2348",
+        "phone": "+1 772-340-0446",
+        "latitude": 27.2755614,
+        "longitude": -80.3551583
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "5060 Seminole Pratt Whitney",
+            "city": "Westlake",
+            "state": "FL",
+            "zip": "33470"
+        },
+        "website": "https://www.winndixie.com/storedetails/westlake/fl?search=213",
+        "phone": "+1 561-508-9957",
+        "latitude": 26.7543128,
+        "longitude": -80.305919
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "820 Old Camp Road",
+            "city": "The Villages",
+            "state": "FL",
+            "zip": "32162"
+        },
+        "website": "https://www.winndixie.com/storedetails/the%20villages/fl?search=2523",
+        "phone": "+1 352-391-1594",
+        "latitude": 28.9071759,
+        "longitude": -81.9700845
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "5005 Church Street",
+            "city": "Zachary",
+            "state": "LA",
+            "zip": "70797"
+        },
+        "website": "https://www.winndixie.com/storedetails/zachary/la?search=1581",
+        "phone": "+1 225-654-5030",
+        "latitude": 30.6506392,
+        "longitude": -91.1505835
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "6033 State Road 54",
+            "city": "New Port Richey",
+            "state": "FL",
+            "zip": "34653"
+        },
+        "website": "https://www.winndixie.com/storedetails/new%20port%20richey/fl?search=655",
+        "phone": "+1 727-847-1044",
+        "latitude": 28.2184837,
+        "longitude": -82.7140394
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "3406 US Highway 19",
+            "city": "Holiday",
+            "state": "FL",
+            "zip": "34691"
+        },
+        "website": "https://www.winndixie.com/storedetails/holiday/fl?search=2477",
+        "phone": "+1 727-842-5533",
+        "latitude": 28.2086003,
+        "longitude": -82.7378232
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "96076 LOFTON SQUARE Court",
+            "city": "Yulee",
+            "state": "FL",
+            "zip": "32097"
+        },
+        "website": "https://www.winndixie.com/storedetails/yulee/fl?search=180",
+        "phone": "+1 904-261-6100",
+        "latitude": 30.6239315,
+        "longitude": -81.5443515
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "27301 Wesley Chapel Boulevard",
+            "city": "Wesley Chapel",
+            "state": "FL",
+            "zip": "33543"
+        },
+        "website": "https://www.winndixie.com/storedetails/wesley%20chapel/fl?search=2503",
+        "phone": "+1 813-994-5570",
+        "latitude": 28.2399323,
+        "longitude": -82.3647219
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "915 Shotwell Street",
+            "city": "Bainbridge",
+            "state": "GA",
+            "zip": "39819"
+        },
+        "website": "https://www.winndixie.com/storedetails/bainbridge/ga?search=169",
+        "phone": "+1 229-246-3454",
+        "latitude": 30.9051138,
+        "longitude": -84.5644041
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "3621 US 231 North",
+            "city": "Panama City",
+            "state": "FL",
+            "zip": "32404"
+        },
+        "website": "https://www.winndixie.com/storedetails/panama%20city/fl?search=481",
+        "phone": "+1 850-914-2333",
+        "latitude": 30.2153054,
+        "longitude": -85.6067656
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1812 Highway 77 South",
+            "city": "Lynn Haven",
+            "state": "FL",
+            "zip": "32444"
+        },
+        "website": "https://www.winndixie.com/storedetails/lynn%20haven/fl?search=436",
+        "phone": "+1 850-271-0066",
+        "latitude": 30.2302678,
+        "longitude": -85.6508371
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1951 South McCall Road",
+            "city": "Englewood",
+            "state": "FL",
+            "zip": "34223"
+        },
+        "website": "https://www.winndixie.com/storedetails/englewood/fl?search=2439",
+        "phone": "+1 941-475-9590",
+        "latitude": 26.936506,
+        "longitude": -82.3361538
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "13002 Coursey Boulevard",
+            "city": "Baton Rouge",
+            "state": "LA",
+            "zip": "70817"
+        },
+        "website": "https://www.winndixie.com/storedetails/baton%20rouge/la?search=1577",
+        "phone": "+1 225-756-7102",
+        "latitude": 30.4081423,
+        "longitude": -91.0347087
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "3170 West New Haven Avenue",
+            "city": "West Melbourne",
+            "state": "FL",
+            "zip": "32904"
+        },
+        "website": "https://www.winndixie.com/storedetails/w%20melbourne/fl?search=2568",
+        "phone": "+1 321-419-0308",
+        "latitude": 28.0799758,
+        "longitude": -80.6740491
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1640 US Highway 19",
+            "city": "Holiday",
+            "state": "FL",
+            "zip": "34690"
+        },
+        "website": "https://www.winndixie.com/storedetails/holiday/fl?search=644",
+        "phone": "+1 727-943-8065",
+        "latitude": 28.1833598,
+        "longitude": -82.7389146
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "10974 Joor Road",
+            "city": "Baton Rouge",
+            "state": "LA",
+            "zip": "70818"
+        },
+        "website": "https://www.winndixie.com/storedetails/baton%20rouge/la?search=1576",
+        "phone": "+1 225-261-6001",
+        "latitude": 30.546601,
+        "longitude": -91.0515976
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "2500 Burnsed Boulevard",
+            "city": "The Villages",
+            "state": "FL",
+            "zip": "32163"
+        },
+        "website": "https://www.winndixie.com/storedetails/the villages/fl?search=2545",
+        "phone": "+1 352-753-5575",
+        "latitude": 28.8631369,
+        "longitude": -82.0165198
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "1651 Southeast Highway 19",
+            "city": "Crystal River",
+            "state": "FL",
+            "zip": "34429"
+        },
+        "website": "https://www.winndixie.com/storedetails/crystal river/fl?search=2421",
+        "phone": "+1 352-563-0100",
+        "latitude": 28.8833358,
+        "longitude": -82.5807947
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "way",
+        "address": {
+            "streetAddress": "947 Amelia Plaza",
+            "city": "Fernandina Beach",
+            "state": "FL",
+            "zip": "32034"
+        },
+        "website": "https://www.winndixie.com/storedetails/fernandina%20beach/fl?search=84",
+        "phone": "+1 904-277-2539",
+        "latitude": 30.647239,
+        "longitude": -81.4583826
+    },
+    {
+        "name": "Winn-Dixie",
+        "brand": "Winn-Dixie",
+        "type": "relation",
+        "address": {
+            "streetAddress": "11101 Old Street Augustine Road",
+            "city": "Jacksonville",
+            "state": "FL",
+            "zip": "32257"
+        },
+        "website": "https://www.winndixie.com/storedetails/jacksonville/fl?search=179",
+        "phone": "+1 904-260-0045",
+        "latitude": 30.172066,
+        "longitude": -81.6016785
+    }
+]
