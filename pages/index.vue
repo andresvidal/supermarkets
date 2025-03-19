@@ -4,7 +4,7 @@
     <div class="rounded-xl bg-gradient-to-r from-blue-600 to-indigo-800 text-white p-8 md:p-16 mb-16 shadow-lg">
       <div class="max-w-3xl mx-auto text-center">
         <h1 class="text-4xl md:text-5xl font-bold mb-4">Supermarkets Data Mapper</h1>
-        <p class="text-xl md:text-2xl mb-8 opacity-90">Visualize and analyze geographic data from multiple sources</p>
+        <p class="text-xl md:text-2xl mb-8 opacity-90">Visualize and analyze geographic data from multiple brands</p>
         <NuxtLink 
           to="/maps" 
           class="inline-flex items-center px-6 py-3 rounded-full bg-emerald-500 hover:bg-emerald-600 text-white font-bold text-lg transition transform hover:-translate-y-1 hover:shadow-lg"
@@ -78,19 +78,21 @@ const dataSources = [
   { name: 'Walmart Supercenter', color: '#ffc220' },
   { name: 'Walmart Neighborhood Market', color: '#ffc220' },
   { name: "Trader Joe's", color: '#cc0000' },
-  { name: 'Whole Foods Market', color: '#3bb143' }
+  { name: 'Whole Foods Market', color: '#3bb143' },
+  { name: 'Dollar General', color: 'yellow' },
+  { name: 'Winn-Dixie', color: 'red' }
 ];
 
 const features = [
   {
     icon: 'mdi:map-marker',
     title: 'Multi-source Mapping',
-    description: 'Visualize data from various sources on a single interactive map'
+    description: 'Visualize data from various brands on a single interactive map'
   },
   {
     icon: 'mdi:compare',
     title: 'Competitive Analysis',
-    description: 'Identify areas where different data sources overlap or compete'
+    description: 'Identify areas where different brands overlap or compete'
   },
   {
     icon: 'mdi:ruler-square',
