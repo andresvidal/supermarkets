@@ -205,7 +205,9 @@
                 >
                     <l-tile-layer
                         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                        >hello</l-tile-layer
+                        name="Analyser.cc"
+                        attribution="&amp;copy; <a href=&quot;https://www.openstreetmap.org/&quot;>OpenStreetMap</a> Analyser.cc"
+                        ></l-tile-layer
                     >
                     <l-layer-group
                         v-if="!onlyShowBounds"
@@ -239,6 +241,7 @@ const toggleSidebar = () => {
 const selectedDataSources = ref<any[]>([]);
 const loadedSources = ref<any[]>([]);
 const fetchedData = ref({});
+const allDataCache = ref({}) // test a way to prevent chat net calls
 
 // Options
 const distanceThreshold = ref(1.5);
