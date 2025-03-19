@@ -10,9 +10,13 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/scripts',
     '@nuxt/ui',
-    '@nuxtjs/leaflet'
+    '@nuxtjs/leaflet',
+    'nuxt-gtag'
   ],
   css: ['~/assets/css/main.css'],
+  gtag: {
+    id: 'G-C4RQTETSXS'
+  },
   nitro: {
     preset: "cloudflare-pages"
   },
