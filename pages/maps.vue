@@ -53,7 +53,7 @@
                                 class="flex items-center py-1"
                             >
                                 <input
-                                    @change="loadDataSources"
+                                    @change="updateVisibleSources"
                                     type="checkbox"
                                     :id="source.name"
                                     :value="source.name"
@@ -67,12 +67,6 @@
                                 >
                             </div>                            
                         </div>
-
-                        <!-- <USelect class="w-48"
-                            multiple
-                            :items="dataSources.map((source) => source.name)"
-                            v-model="selectedDataSources"
-                            @change="mapUpdated" /> -->
                     </div>
 
                     <div class="border-t border-gray-200 pt-4">
@@ -84,7 +78,7 @@
                                 <input
                                     type="checkbox"
                                     v-model="drawSameSourceDataBounds"
-                                    @change="mapUpdated"
+                                    @change="updateBounds"
                                     class="w-4 h-4 text-blue-600 rounded border-gray-300 focus:ring-blue-500"
                                 />
                                 <span class="ml-2 text-sm text-gray-700"
@@ -96,7 +90,7 @@
                                 <input
                                     type="checkbox"
                                     v-model="onlyCrossSourceBounds"
-                                    @change="mapUpdated"
+                                    @change="updateBounds"
                                     class="w-4 h-4 text-blue-600 rounded border-gray-300 focus:ring-blue-500"
                                 />
                                 <span class="ml-2 text-sm text-gray-700"
@@ -108,7 +102,7 @@
                                 <input
                                     type="checkbox"
                                     v-model="onlyShowBounds"
-                                    @change="loadDataSources"
+                                    @change="toggleMarkerVisibility"
                                     class="w-4 h-4 text-blue-600 rounded border-gray-300 focus:ring-blue-500"
                                 />
                                 <span class="ml-2 text-sm text-gray-700"
@@ -122,7 +116,7 @@
                                 color="neutral"
                                 v-model="boundsType"
                                 :items="boundsTypeOptions"
-                                @change="mapUpdated"
+                                @change="updateBounds"
                             />
                         </div>
                     </div>
@@ -144,7 +138,7 @@
                                     type="range"
                                     id="distance"
                                     v-model.number="distanceThreshold"
-                                    @change="loadDataSources"
+                                    @change="updateBounds"
                                     min="0.1"
                                     max="25.0"
                                     step="0.1"
@@ -167,7 +161,7 @@
                                     max="5.0"
                                     step="0.5"
                                     class="mt-1 block w-full"
-                                    @change="loadDataSources"
+                                    @change="updateBounds"
                                 />
                             </div>
 
@@ -200,7 +194,8 @@
                     ref="map"
                     :zoom="12"
                     :center="[28.36500174423078, -81.24687015767103]"
-                    @update:center="mapUpdated"
+                    @update:center="handleMapUpdate"
+                    @update:bounds="handleMapUpdate" 
                     class="h-full w-full"
                 >
                     <l-tile-layer
@@ -210,10 +205,10 @@
                         ></l-tile-layer
                     >
                     <l-layer-group
-                        v-if="!onlyShowBounds"
-                        v-for="source in loadedSources"
+                        v-for="source in dataSources"
                         :key="source.name"
                         :ref="(el) => (loadedLayers[source.name] = el)"
+                        v-show="!onlyShowBounds && selectedDataSources.includes(source.name)"
                     ></l-layer-group>
                     <l-layer-group ref="boundsLayer"></l-layer-group>
                 </l-map>
@@ -223,8 +218,9 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted } from "vue";
+import { ref, computed, onMounted, watch } from "vue";
 import L from "leaflet";
+import { debounce } from "lodash";
 
 // Map refs
 const map = ref(null);
@@ -241,7 +237,7 @@ const toggleSidebar = () => {
 const selectedDataSources = ref<any[]>([]);
 const loadedSources = ref<any[]>([]);
 const fetchedData = ref({});
-const allDataCache = ref({}) // test a way to prevent chat net calls
+const allDataCache = ref({}); // Will now be properly used for caching
 
 // Options
 const distanceThreshold = ref(1.5);
@@ -251,6 +247,8 @@ const onlyCrossSourceBounds = ref(false);
 const onlyShowBounds = ref(false);
 const boundsType = ref("Rectangle");
 const boundsTypeOptions = ref(["Rectangle", "Circular"]);
+const isDataLoading = ref(false);
+const mapBounds = ref(null);
 
 const dataSources = ref([
     {
@@ -263,8 +261,6 @@ const dataSources = ref([
         url: "/js/publix.stores.json",
         markerOptions: {
             color: "green",
-            // iconUrl:
-            //     "https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png",
         },
     },
     {
@@ -312,94 +308,234 @@ const dataSources = ref([
 // Select all or clear data sources
 const selectAllSources = () => {
     selectedDataSources.value = dataSources.value.map((source) => source.name);
-    loadDataSources();
+    updateVisibleSources();
 };
 
 const clearAllSources = () => {
     selectedDataSources.value = [];
-    loadDataSources();
+    updateVisibleSources();
 };
+
+// Watch for changes in the onlyShowBounds property
+watch(onlyShowBounds, (newValue) => {
+    // This ensures that when toggling "Hide pins", all the layer groups get updated properly
+    toggleMarkerVisibility();
+});
 
 // Initialize with some data sources selected
 onMounted(() => {
     selectedDataSources.value = ["Aldi Stores", "Publix Super Markets"];
     // Load initial data after a short delay to ensure map is ready
     setTimeout(() => {
-        loadDataSources();
+        if (map.value?.leafletObject) {
+            mapBounds.value = map.value.leafletObject.getBounds();
+            loadAllDataSources();
+        }
     }, 500);
 });
 
-const mapUpdated = (event) => {
-    loadDataSources();
+// Debounce map update events to prevent excessive processing
+const handleMapUpdate = debounce(() => {
+    if (!map.value?.leafletObject) return;
+    const newBounds = map.value.leafletObject.getBounds();
+    
+    // Only update if bounds have changed significantly
+    if (!mapBounds.value || !areBoundsSimilar(mapBounds.value, newBounds)) {
+        mapBounds.value = newBounds;
+        filterVisiblePoints();
+        updateMapLayers();
+    }
+}, 300);
+
+// Check if bounds are similar (to avoid unnecessary updates)
+const areBoundsSimilar = (bounds1, bounds2) => {
+    const ne1 = bounds1.getNorthEast();
+    const sw1 = bounds1.getSouthWest();
+    const ne2 = bounds2.getNorthEast();
+    const sw2 = bounds2.getSouthWest();
+    
+    // Allow small differences
+    const tolerance = 0.01;
+    return (
+        Math.abs(ne1.lat - ne2.lat) < tolerance &&
+        Math.abs(ne1.lng - ne2.lng) < tolerance &&
+        Math.abs(sw1.lat - sw2.lat) < tolerance &&
+        Math.abs(sw1.lng - sw2.lng) < tolerance
+    );
 };
 
-const loadDataSources = async () => {
-    if (!map.value?.leafletObject) return;
-    const bounds = map.value.leafletObject.getBounds();
+// Only fetch data that hasn't been cached yet
+const loadAllDataSources = async () => {
+    if (isDataLoading.value) return;
+    isDataLoading.value = true;
+    
+    try {
+        // Identify sources that need to be loaded
+        const sourcesToLoad = dataSources.value.filter(
+            source => !allDataCache.value[source.name]
+        );
+        
+        // Fetch new data
+        for (const source of sourcesToLoad) {
+            try {
+                const response = await fetch(source.url);
+                const json = await response.json();
+                allDataCache.value[source.name] = json;
+                console.log(`Fetched and cached data for ${source.name}`);
+            } catch (error) {
+                console.error(`Error fetching data for ${source.name}:`, error);
+            }
+        }
+        
+        updateVisibleSources();
+    } finally {
+        isDataLoading.value = false;
+    }
+};
 
-    loadedSources.value = dataSources.value.filter((source) =>
+// Update which sources are visible based on selection
+const updateVisibleSources = () => {
+    // Load any missing data first (if needed)
+    const missingData = selectedDataSources.value.some(
+        name => !allDataCache.value[name]
+    );
+    
+    if (missingData) {
+        loadAllDataSources();
+        return;
+    }
+    
+    // Update loaded sources
+    loadedSources.value = dataSources.value.filter(source => 
         selectedDataSources.value.includes(source.name)
     );
-    for (const source of loadedSources.value) {
-        try {
-            const allData = await (await fetch(source.url)).json();
-            fetchedData.value[source.name] = allData.filter((item) => {
-                return (
-                    item.latitude &&
-                    item.longitude &&
-                    bounds.contains([item.latitude, item.longitude])
-                );
-            });
-            renderDataSource(source.name);
-        } catch (error) {
-            console.error(`Error fetching data for ${source.name}:`, error);
+    
+    // Filter to points within map bounds
+    filterVisiblePoints();
+    
+    // Update map layers
+    updateMapLayers();
+};
+
+// Update all map layers (markers and bounds)
+const updateMapLayers = () => {
+    // First clear all layers that are not in selectedDataSources
+    dataSources.value.forEach(source => {
+        if (!selectedDataSources.value.includes(source.name)) {
+            if (loadedLayers.value[source.name]?.leafletObject) {
+                loadedLayers.value[source.name].leafletObject.clearLayers();
+            }
         }
+    });
+    
+    // Then render markers for each visible source
+    loadedSources.value.forEach(source => {
+        renderDataSource(source.name);
+    });
+    
+    // Update bounds
+    drawBounds();
+};
+
+// Filter data to only show points within current map view
+const filterVisiblePoints = () => {
+    if (!mapBounds.value) return;
+    
+    // Clear existing filtered data for sources that aren't selected
+    Object.keys(fetchedData.value).forEach(sourceName => {
+        if (!selectedDataSources.value.includes(sourceName)) {
+            delete fetchedData.value[sourceName];
+        }
+    });
+    
+    // Update filtered data for selected sources
+    loadedSources.value.forEach(source => {
+        fetchedData.value[source.name] = (allDataCache.value[source.name] || []).filter(item => {
+            return (
+                item.latitude &&
+                item.longitude &&
+                mapBounds.value.contains([item.latitude, item.longitude])
+            );
+        });
+    });
+};
+
+// Toggle marker visibility without reloading data
+const toggleMarkerVisibility = () => {
+    if (onlyShowBounds.value) {
+        // Clear all marker layers when hiding pins
+        Object.values(loadedLayers.value).forEach(layer => {
+            if (layer?.leafletObject) {
+                layer.leafletObject.clearLayers();
+            }
+        });
+    } else {
+        // Re-render markers for selected sources
+        loadedSources.value.forEach(source => {
+            renderDataSource(source.name);
+        });
     }
+    
+    // Always update bounds
+    drawBounds();
+};
+
+// Update bounds when bounds settings change
+const updateBounds = () => {
     drawBounds();
 };
 
 const renderDataSource = (sourceName) => {
     if (
         !loadedLayers.value[sourceName]?.leafletObject ||
-        !map.value?.leafletObject
+        !map.value?.leafletObject ||
+        onlyShowBounds.value ||
+        !selectedDataSources.value.includes(sourceName)
     )
         return;
 
+    // Clear existing markers
     loadedLayers.value[sourceName].leafletObject.clearLayers();
 
-    if (!onlyShowBounds.value) {
-        fetchedData.value[sourceName].forEach((item) => {
-            if (item.latitude && item.longitude) {
-                const sourceMarkerOptions = loadedSources.value.find(
-                    (source) => source.name === sourceName
-                )?.markerOptions;
-                const iconUrlFromSource = sourceMarkerOptions?.iconUrl
-                    ? sourceMarkerOptions.iconUrl
-                    : `https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-${sourceMarkerOptions?.color}.png`;
+    // Get data for this source
+    const sourceData = fetchedData.value[sourceName] || [];
+    if (sourceData.length === 0) return;
 
-                L.marker([item.latitude, item.longitude], {
-                    icon: L.icon({
-                        iconUrl: iconUrlFromSource,
-                        shadowUrl:
-                            "https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png",
-                        iconSize: [25, 41],
-                        iconAnchor: [12, 41],
-                        popupAnchor: [1, -34],
-                        shadowSize: [41, 41],
-                    }),
-                })
-                    .bindPopup(
-                        `<div class="text-sm">
-              <p class="font-bold">${item.name}</p>
-              <p>${item.address.streetAddress}, ${item.address.city}, ${item.address.state} ${item.address.zip}</p>
-              <p><a href="${item.website}" target="_blank" class="text-blue-600 hover:underline">Website</a></p>
-              <p>Phone: ${item.phone}</p>
-            </div>`
-                    )
-                    .addTo(loadedLayers.value[sourceName].leafletObject);
-            }
-        });
-    }
+    // Get marker options for this source
+    const sourceMarkerOptions = dataSources.value.find(
+        (source) => source.name === sourceName
+    )?.markerOptions || { color: "blue" };
+
+    // Create icon URL
+    const iconUrlFromSource = sourceMarkerOptions?.iconUrl
+        ? sourceMarkerOptions.iconUrl
+        : `https://cdn.rawgit.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-${sourceMarkerOptions?.color}.png`;
+
+    // Add markers
+    sourceData.forEach((item) => {
+        if (item.latitude && item.longitude) {
+            L.marker([item.latitude, item.longitude], {
+                icon: L.icon({
+                    iconUrl: iconUrlFromSource,
+                    shadowUrl:
+                        "https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png",
+                    iconSize: [25, 41],
+                    iconAnchor: [12, 41],
+                    popupAnchor: [1, -34],
+                    shadowSize: [41, 41],
+                }),
+            })
+                .bindPopup(
+                    `<div class="text-sm">
+          <p class="font-bold">${item.name}</p>
+          <p>${item.address.streetAddress}, ${item.address.city}, ${item.address.state} ${item.address.zip}</p>
+          <p><a href="${item.website}" target="_blank" class="text-blue-600 hover:underline">Website</a></p>
+          <p>Phone: ${item.phone}</p>
+        </div>`
+                )
+                .addTo(loadedLayers.value[sourceName].leafletObject);
+        }
+    });
 };
 
 const drawBounds = () => {
