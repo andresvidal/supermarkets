@@ -365,14 +365,16 @@ const areBoundsSimilar = (bounds1, bounds2) => {
 };
 
 // Only fetch data that hasn't been cached yet
+// Modify loadAllDataSources to only load selected sources
 const loadAllDataSources = async () => {
     if (isDataLoading.value) return;
     isDataLoading.value = true;
     
     try {
-        // Identify sources that need to be loaded
+        // Only load selected sources that haven't been cached
         const sourcesToLoad = dataSources.value.filter(
-            source => !allDataCache.value[source.name]
+            source => selectedDataSources.value.includes(source.name) && 
+                     !allDataCache.value[source.name]
         );
         
         // Fetch new data
